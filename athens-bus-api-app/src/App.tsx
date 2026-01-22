@@ -9,6 +9,12 @@ import axios from 'axios'
 //   RouteType: string;
 //   RouteDistance: string;
 // }
+interface StopLines {
+  route_code: string;
+  veh_code: string;
+  btime2: string;
+  index: string;
+}
 
 interface StopsInfo {
   StopCode: string;
@@ -40,6 +46,8 @@ function App() {
   const [busInfo, setBusInfo] = useState<BusLine[]>([])
   const [selectedLineCode, setSelectedLineCode] = useState<string>("")
   const [routeStops, setrouteStops] = useState<StopsInfo[]>([])
+  const [stopLines, setstopLines] = useState<StopLines[]>([])
+  const [selectedStop, setSelectedStop] = useState<string>("")
 
   useEffect(() => {
     // Recieves bus data for all the busses in the Athens/Attica network
@@ -47,8 +55,8 @@ function App() {
     const GetBusLines = async () => {
       try {
         const res = await axios.get("/api/?act=webGetLines")
-        setBusInfo(res.data)
 
+        setBusInfo(res.data)
 
         if (res.data && res.data.length > 0) {
           setSelectedLineCode(res.data[0].LineCode)
@@ -91,13 +99,40 @@ function App() {
   const GetStops = async (RouteCodeGo: string) => {
     try {
       const res = await axios.get(`/api/?act=webGetRoutesDetailsAndStops&p1=${RouteCodeGo}`)
-      console.log(res.data.stops)
-      console.log("I am route info")
       setrouteStops(res.data.stops)
+      console.log("In GetStops")
+      console.log(res.data)
 
     } catch (err) {
       alert("Failed to get stops")
     }
+  }
+
+  // Now for the stop the user selects, we use an api call to get which busses pass from that stop as well as 
+  // the time remaining for the bus arival
+
+  const GetStopInfo = async (e: React.MouseEvent<HTMLAnchorElement>, stopCode: string) => {
+    e.preventDefault()
+
+    const res = await axios.get(`/api/?act=getStopArrivals&p1=${stopCode}`)
+    // Find a way to display line numbers using routecode, given by above api call
+    console.log(res.data)
+    setSelectedStop(stopCode)
+    setstopLines(res.data)
+    console.log(selectedStop)
+
+
+  }
+
+
+
+
+
+  const GetLineName = async () => {
+    const res = await axios.get(`api/?act=getLineName&p1=${selectedLineCode}`)
+    return (res.data.line_descr)
+
+
   }
 
   return (
@@ -118,23 +153,30 @@ function App() {
 
           </select>
           <input type="submit" value="Επιλογή" onClick={GetRoutecode} />
+
+
           {routeStops &&
             <>
-
               <ul>
                 {
-                  routeStops.map((stop) => (
-                    <li key={stop.index}><a href="" onClick={(e) => (e.preventDefault())}>{stop.StopDescr}</a></li>
+                  routeStops.map((stop) => (<>
+
+                    <li key={stop.index}><a href="" onClick={(e) => GetStopInfo(e, stop.StopCode)}>{stop.StopDescr}</a></li>
+                    {selectedStop === stop.StopCode && stopLines && stopLines.map((line) => (
+                      <ul key={line.index}>
+                        <li>
+                          {line.route_code}: {line.btime2} mins
+                        </li>
+
+                      </ul>
+
+                    ))}
+                  </>
                   ))
-
                 }
-
-
               </ul>
             </>
           }
-
-
         </>
       ) : (
         <p>Loading...</p>
