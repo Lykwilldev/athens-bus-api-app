@@ -1,0 +1,4166 @@
+{
+  "1754": {
+    "lineID": "224",
+    "lineDescr": "ΚΑΙΣΑΡΙΑΝΗ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+    "lineDescrEng": "KAISARIANI - EL. VENIZELOY",
+    "lineCode": 799
+  },
+  "1770": {
+    "lineID": "813",
+    "lineDescr": "ΑΒΕΡΩΦ - ΠΡΟΥΣΣΗΣ",
+    "lineDescrEng": "AVEROF - PROYSSIS",
+    "lineCode": 808
+  },
+  "1771": {
+    "lineID": "813",
+    "lineDescr": "ΑΒΕΡΩΦ - ΠΡΟΥΣΣΗΣ",
+    "lineDescrEng": "AVEROF - PROYSSIS",
+    "lineCode": 808
+  },
+  "1797": {
+    "lineID": "025",
+    "lineDescr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΠΡΟΦΗΤΗ ΔΑΝΙΗΛ",
+    "lineDescrEng": "IPPOKRATOUS - PROFITI DANIIL",
+    "lineCode": 817
+  },
+  "1799": {
+    "lineID": "026",
+    "lineDescr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΒΟΤΑΝΙΚΟΣ",
+    "lineDescrEng": "IPPOKRATOUS - VOTANIKOS",
+    "lineCode": 818
+  },
+  "1806": {
+    "lineID": "605",
+    "lineDescr": "ΠΕΡΙΣΣΟΣ - ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PERISSOS - ANO PATISIA",
+    "lineCode": 822
+  },
+  "1810": {
+    "lineID": "057",
+    "lineDescr": "ΛΟΦΟΣ ΣΚΟΥΖΕ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "LOFOS SKOUZE - OMONOIA",
+    "lineCode": 824
+  },
+  "1816": {
+    "lineID": "855",
+    "lineDescr": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ",
+    "lineDescrEng": "PSARI - ASPROPYRGOS - LOFOS KYRILLOY",
+    "lineCode": 827
+  },
+  "1817": {
+    "lineID": "855",
+    "lineDescr": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ",
+    "lineDescrEng": "PSARI - ASPROPYRGOS - LOFOS KYRILLOY",
+    "lineCode": 827
+  },
+  "1821": {
+    "lineID": "046",
+    "lineDescr": "ΜΟΥΣΕΙΟ - ΕΛΛΗΝΟΡΩΣΩΝ",
+    "lineDescrEng": "MOUSEIO - ELLINOROSON",
+    "lineCode": 831
+  },
+  "1824": {
+    "lineID": "Α8",
+    "lineDescr": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ",
+    "lineDescrEng": "POLYTEXNEIO - N. IONIA - MAROUSI",
+    "lineCode": 833
+  },
+  "1825": {
+    "lineID": "Α8",
+    "lineDescr": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ",
+    "lineDescrEng": "POLYTEXNEIO - N. IONIA - MAROUSI",
+    "lineCode": 833
+  },
+  "1828": {
+    "lineID": "748",
+    "lineDescr": "ΧΡΥΣΟΥΠΟΛΗ - ΑΝΘΟΥΠΟΛΗ - ΣΤ. ΠΕΡΙΣΤΕΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "CHRYSOYPOLI - ANTHOYPOLI - ST. PERISTERI",
+    "lineCode": 835
+  },
+  "1829": {
+    "lineID": "560",
+    "lineDescr": "ΣΤ. ΚΗΦΙΣΙΑ - ΜΟΡΤΕΡΟ - Ν. ΕΡΥΘΡΑΙΑ",
+    "lineDescrEng": "ST. KIFISIA - MORTERO - N. ERYTHRAIA",
+    "lineCode": 836
+  },
+  "1830": {
+    "lineID": "560",
+    "lineDescr": "ΣΤ. ΚΗΦΙΣΙΑ - ΜΟΡΤΕΡΟ - Ν. ΕΡΥΘΡΑΙΑ",
+    "lineDescrEng": "ST. KIFISIA - MORTERO - N. ERYTHRAIA",
+    "lineCode": 836
+  },
+  "1837": {
+    "lineID": "Α15",
+    "lineDescr": "ΣΤ. ΛΑΡΙΣΗΣ - ΔΑΣΟΣ",
+    "lineDescrEng": "ST. LARISIS - DASOS",
+    "lineCode": 840
+  },
+  "1851": {
+    "lineID": "731",
+    "lineDescr": "ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ - ΑΤΤΙΚΟ ΝΟΣ. - ΔΑΣΟΣ",
+    "lineDescrEng": "ANTHOUPOLI - ST. M. ANTHOUPOLI - ATTIKO NOS. - DASOS",
+    "lineCode": 845
+  },
+  "1873": {
+    "lineID": "Α13",
+    "lineDescr": "ΟΜΟΝΟΙΑ - ΚΗΠΟΥΠΟΛΗ",
+    "lineDescrEng": "OMONOIA - KIPOYPOLI",
+    "lineCode": 866
+  },
+  "1886": {
+    "lineID": "831",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ",
+    "lineDescrEng": "PEIRAIAS - AIGALEO",
+    "lineCode": 874
+  },
+  "1889": {
+    "lineID": "500",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ(ΠΛ.ΠΛΑΤΑΝΟΥ) (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - KIFISIA - (PL.PLATANOU) (NIGHT LINE)",
+    "lineCode": 877
+  },
+  "1890": {
+    "lineID": "500",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ(ΠΛ.ΠΛΑΤΑΝΟΥ) (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - KIFISIA - (PL.PLATANOU) (NIGHT LINE)",
+    "lineCode": 877
+  },
+  "1891": {
+    "lineID": "824",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI - AG. ANTONIOS - PEIRAIAS A ",
+    "lineCode": 878
+  },
+  "1892": {
+    "lineID": "856",
+    "lineDescr": "ΑΙΓΑΛΕΩ - ΥΜΗΤΤΟΣ - ΔΑΦΝΗ",
+    "lineDescrEng": "AIGALEO - YMITTOS - DAFNI",
+    "lineCode": 879
+  },
+  "1895": {
+    "lineID": "906",
+    "lineDescr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΚΑΛΛΙΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PL. KARAΪSKAKI - KALLIPOLI",
+    "lineCode": 882
+  },
+  "1898": {
+    "lineID": "300",
+    "lineDescr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΤΖΑΝΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PL. KARAΪSKAKI - TZANEIO ",
+    "lineCode": 885
+  },
+  "1899": {
+    "lineID": "750",
+    "lineDescr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ",
+    "lineDescrEng": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "lineCode": 886
+  },
+  "1916": {
+    "lineID": "821",
+    "lineDescr": "ΑΓΙΑ ΑΝΑΣΤΑΣΙΑ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AGIA ANASTASIA - ST. AG. ANTONIOS",
+    "lineCode": 899
+  },
+  "1925": {
+    "lineID": "164",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ",
+    "lineDescrEng": "ST. AGIOS DIMITRIOS - K. IL/POLI - ARG/POLI - TERPSITHEA",
+    "lineCode": 924
+  },
+  "1928": {
+    "lineID": "128",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "GLYFADA - TERPSITHEA",
+    "lineCode": 927
+  },
+  "1934": {
+    "lineID": "117",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΒΑΡΗ",
+    "lineDescrEng": "GLYFADA - VOULIAGMENI - VARI",
+    "lineCode": 932
+  },
+  "1951": {
+    "lineID": "212",
+    "lineDescr": "ΣΤ. ΔΑΦΝΗ - ΥΜΗΤΤΟΣ - ΒΥΡΩΝΑΣ - ΚΑΡΕΑΣ",
+    "lineDescrEng": "ST. METRO DAFNI - VYRONAS - KAREAS",
+    "lineCode": 948
+  },
+  "1952": {
+    "lineID": "212",
+    "lineDescr": "ΣΤ. ΔΑΦΝΗ - ΥΜΗΤΤΟΣ - ΒΥΡΩΝΑΣ - ΚΑΡΕΑΣ",
+    "lineDescrEng": "ST. METRO DAFNI - VYRONAS - KAREAS",
+    "lineCode": 948
+  },
+  "1961": {
+    "lineID": "20",
+    "lineDescr": "Ν. ΦΑΛΗΡΟ - ΚΑΣΤΕΛΛΑ - ΔΡΑΠΕΤΣΩΝΑ",
+    "lineDescrEng": "N. FALIRO - KASTELLA - DRAPETSONA",
+    "lineCode": 1083
+  },
+  "1962": {
+    "lineID": "24",
+    "lineDescr": "ΠΕΤΡΟΥΠΟΛΗ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PETROYPOLI - ILION - ST. AG. ANTONIOS ",
+    "lineCode": 1081
+  },
+  "1963": {
+    "lineID": "410",
+    "lineDescr": "Ο.Α.Κ.Α. - ΑΝΩ ΜΕΛΙΣΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "O.A.K.A. - ANO MELISSIA",
+    "lineCode": 846
+  },
+  "1968": {
+    "lineID": "507",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΡΟΔΟΠΟΛΗ - ΣΤΑΜΑΤΑ",
+    "lineDescrEng": "ZIRINEIO - RODOPOLI - STAMATA",
+    "lineCode": 914
+  },
+  "1969": {
+    "lineID": "507",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΡΟΔΟΠΟΛΗ - ΣΤΑΜΑΤΑ",
+    "lineDescrEng": "ZIRINEIO - RODOPOLI - STAMATA",
+    "lineCode": 914
+  },
+  "1986": {
+    "lineID": "447",
+    "lineDescr": "ΧΑΛΑΝΔΡΙ - ΑΝΩ ΒΡΙΛΗΣΣΙΑ",
+    "lineDescrEng": "CHALANDRI - ANO BRILHSSIA",
+    "lineCode": 976
+  },
+  "1987": {
+    "lineID": "6",
+    "lineDescr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΚΟΣΜΑΣ ΑΙΤΩΛΟΣ - Ν. ΦΙΛΑΔΕΛΦΕΙΑ",
+    "lineDescrEng": "IPPOKRATOUS - KOSMAS AITOLOS - N. FILADELFEIA",
+    "lineCode": 1073
+  },
+  "1988": {
+    "lineID": "6",
+    "lineDescr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΚΟΣΜΑΣ ΑΙΤΩΛΟΣ - Ν. ΦΙΛΑΔΕΛΦΕΙΑ",
+    "lineDescrEng": "IPPOKRATOUS - KOSMAS AITOLOS - N. FILADELFEIA",
+    "lineCode": 1073
+  },
+  "1989": {
+    "lineID": "3",
+    "lineDescr": "Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΑΝΩ ΠΑΤΗΣΙΑ - ΝΕΟ ΨΥΧΙΚΟ",
+    "lineDescrEng": "N. FILADELFEIA - ANO PATISIA - NEO PSYCHIKO",
+    "lineCode": 1068
+  },
+  "1990": {
+    "lineID": "3",
+    "lineDescr": "Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΑΝΩ ΠΑΤΗΣΙΑ - ΝΕΟ ΨΥΧΙΚΟ",
+    "lineDescrEng": "N. FILADELFEIA - ANO PATISIA - NEO PSYCHIKO",
+    "lineCode": 1068
+  },
+  "1991": {
+    "lineID": "5",
+    "lineDescr": "ΛΑΜΠΡΙΝΗ - ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ - ΤΖΙΤΖΙΦΙΕΣ",
+    "lineDescrEng": "LAMPRINI - PL. SYNTAGMATOS - TZITZIFIES",
+    "lineCode": 1072
+  },
+  "1992": {
+    "lineID": "5",
+    "lineDescr": "ΛΑΜΠΡΙΝΗ - ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ - ΤΖΙΤΖΙΦΙΕΣ",
+    "lineDescrEng": "LAMPRINI - PL. SYNTAGMATOS - TZITZIFIES",
+    "lineCode": 1072
+  },
+  "1994": {
+    "lineID": "10",
+    "lineDescr": "ΤΖΙΤΖΙΦΙΕΣ - ΧΑΛΑΝΔΡΙ",
+    "lineDescrEng": "TZITZIFIES - XALANDRI",
+    "lineCode": 1077
+  },
+  "1995": {
+    "lineID": "11",
+    "lineDescr": "ΑΝΩ ΠΑΤΗΣΙΑ - Ν. ΠΑΓΚΡΑΤΙ - Ν. ΕΛΒΕΤΙΑ",
+    "lineDescrEng": "ANO PATISIA - N. PAGKRATI - N. ELVETIA",
+    "lineCode": 1079
+  },
+  "1997": {
+    "lineID": "14 ",
+    "lineDescr": "ΛΑΜΠΡΙΝΗ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΓΗΡΟΚΟΜΕΙΟ",
+    "lineDescrEng": "LAMPRINI - L. ALEXANDRAS - GIROKOMEIO",
+    "lineCode": 1078
+  },
+  "1998": {
+    "lineID": "14 ",
+    "lineDescr": "ΛΑΜΠΡΙΝΗ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΓΗΡΟΚΟΜΕΙΟ",
+    "lineDescrEng": "LAMPRINI - L. ALEXANDRAS - GIROKOMEIO",
+    "lineCode": 1078
+  },
+  "2000": {
+    "lineID": "818",
+    "lineDescr": "ΛΙΜ. ΠΕΡΑΜΑΤΟΣ - ΑΝΩ ΠΕΡΑΜΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "LIM. PERAMATOS - ANO PERAMA ",
+    "lineCode": 1010
+  },
+  "2013": {
+    "lineID": "15",
+    "lineDescr": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+    "lineDescrEng": "PETRALONA - DIKASTIRIA - EL. VENIZELOY",
+    "lineCode": 1074
+  },
+  "2024": {
+    "lineID": "4",
+    "lineDescr": "ΑΝΩ ΚΥΨΕΛΗ - ΑΓ. ΑΡΤΕΜΙΟΣ - ΣΤ. ΑΓ. ΙΩΑΝΝΗΣ",
+    "lineDescrEng": "ANO KYPSELI - AG. ARTEMIOS - ST. AG. IOANNIS",
+    "lineCode": 1071
+  },
+  "2027": {
+    "lineID": "18",
+    "lineDescr": "ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΜΕΣΩ ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)",
+    "lineDescrEng": "MOYSEIO - CHALANDRI (VIA ETHN. ANTISTASEOS)",
+    "lineCode": 1085
+  },
+  "2028": {
+    "lineID": "18",
+    "lineDescr": "ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΜΕΣΩ ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)",
+    "lineDescrEng": "MOYSEIO - CHALANDRI (VIA ETHN. ANTISTASEOS)",
+    "lineCode": 1085
+  },
+  "2029": {
+    "lineID": "19",
+    "lineDescr": "ΜΟΥΣΕΙΟ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ (ΣΙΔΕΡΑ)",
+    "lineDescrEng": "MOYSEIO - ST. CHALANDRIOY (SIDERA)",
+    "lineCode": 1084
+  },
+  "2030": {
+    "lineID": "19",
+    "lineDescr": "ΜΟΥΣΕΙΟ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ (ΣΙΔΕΡΑ)",
+    "lineDescrEng": "MOYSEIO - ST. CHALANDRIOY (SIDERA)",
+    "lineCode": 1084
+  },
+  "2034": {
+    "lineID": "218",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΤ. ΔΑΦΝΗ",
+    "lineDescrEng": "PEIRAIAS - ST. DAFNI",
+    "lineCode": 1035
+  },
+  "2036": {
+    "lineID": "305",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΑΓ. ΝΙΚΟΛΑΟΣ)",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - ARTEMIS (AG. NIKOLAOS)",
+    "lineCode": 954
+  },
+  "2037": {
+    "lineID": "305",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΑΓ. ΝΙΚΟΛΑΟΣ)",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - ARTEMIS (AG. NIKOLAOS)",
+    "lineCode": 954
+  },
+  "2042": {
+    "lineID": "Β9",
+    "lineDescr": "ΧΑΛΚΟΚΟΝΔΥΛΗ - ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΚΗΦΙΣΙΑ",
+    "lineDescrEng": "CHALKOKONDYLI - METAMORFOSI - N. KIFISIA",
+    "lineCode": 1023
+  },
+  "2043": {
+    "lineID": "Β9",
+    "lineDescr": "ΧΑΛΚΟΚΟΝΔΥΛΗ - ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΚΗΦΙΣΙΑ",
+    "lineDescrEng": "CHALKOKONDYLI - METAMORFOSI - N. KIFISIA",
+    "lineCode": 1023
+  },
+  "2051": {
+    "lineID": "Χ95",
+    "lineDescr": "ΣΥΝΤΑΓΜΑ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)",
+    "lineDescrEng": "SYNTAGMA - AEROL. ATHINON (EXPRESS)",
+    "lineCode": 1025
+  },
+  "2052": {
+    "lineID": "Χ95",
+    "lineDescr": "ΣΥΝΤΑΓΜΑ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)",
+    "lineDescrEng": "SYNTAGMA - AEROL. ATHINON (EXPRESS)",
+    "lineCode": 1025
+  },
+  "2055": {
+    "lineID": "304",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΒΡΑΥΡΩΝΑ)",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - ARTEMIS (VRAYRONA)",
+    "lineCode": 953
+  },
+  "2056": {
+    "lineID": "304",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΒΡΑΥΡΩΝΑ)",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - ARTEMIS (VRAYRONA)",
+    "lineCode": 953
+  },
+  "2059": {
+    "lineID": "308",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - PAIANIA - KOROPI",
+    "lineCode": 955
+  },
+  "2060": {
+    "lineID": "308",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - PAIANIA - KOROPI",
+    "lineCode": 955
+  },
+  "2068": {
+    "lineID": "402",
+    "lineDescr": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΔΡΟΣΟ",
+    "lineDescrEng": "ST. KATECHAKI - POLYDROSO",
+    "lineCode": 1050
+  },
+  "2069": {
+    "lineID": "402",
+    "lineDescr": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΔΡΟΣΟ",
+    "lineDescrEng": "ST. KATECHAKI - POLYDROSO",
+    "lineCode": 1050
+  },
+  "2072": {
+    "lineID": "450",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. CHALANDRI - CHALANDRI - N. PENTELI",
+    "lineCode": 1059
+  },
+  "2073": {
+    "lineID": "450",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. CHALANDRI - CHALANDRI - N. PENTELI",
+    "lineCode": 1059
+  },
+  "2079": {
+    "lineID": "16",
+    "lineDescr": "ΑΓ. ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AG. IOANNIS RENTIS - PEIRAIAS ",
+    "lineCode": 1076
+  },
+  "2085": {
+    "lineID": "Α7",
+    "lineDescr": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛΑΤΕΙΑ ΠΛΑΤΑΝΟΥ)",
+    "lineDescrEng": "STOYRNARI - KIFISIA (PLATEIA PLATANOU)",
+    "lineCode": 965
+  },
+  "2086": {
+    "lineID": "Α7",
+    "lineDescr": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛΑΤΕΙΑ ΠΛΑΤΑΝΟΥ)",
+    "lineDescrEng": "STOYRNARI - KIFISIA (PLATEIA PLATANOU)",
+    "lineCode": 965
+  },
+  "2108": {
+    "lineID": "250",
+    "lineDescr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PANEPISTIMIOUPOLI - ST. EVAGGELISMOS",
+    "lineCode": 952
+  },
+  "2117": {
+    "lineID": "541",
+    "lineDescr": "ΜΕΤΑΜΟΡΦΩΣΗ - ΣΤ. ΑΜΑΡΟΥΣΙΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "METAMORFOSI - ST. AMAROUSIOU ",
+    "lineCode": 979
+  },
+  "2120": {
+    "lineID": "242",
+    "lineDescr": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΤΕΧΝΕΙΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KATECHAKI - POLITECHNIOUPOLI",
+    "lineCode": 951
+  },
+  "2127": {
+    "lineID": "460",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. CHALANDRI - CHALANDRI - PALAIA PENTELI",
+    "lineCode": 1061
+  },
+  "2128": {
+    "lineID": "460",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. CHALANDRI - CHALANDRI - PALAIA PENTELI",
+    "lineCode": 1061
+  },
+  "2137": {
+    "lineID": "Β10",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (ΜΕΣΩ ΑΡΙΣΤΟΤΕΛΟΥΣ)",
+    "lineDescrEng": "STATHMOS LARISIS - ACHARNAI (VIA ARISTOTELOYS)",
+    "lineCode": 1021
+  },
+  "2138": {
+    "lineID": "Α5",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΑΝΘΟΥΣΑ",
+    "lineDescrEng": "AKADIMIA - AG. PARASKEYI - ANTHOYSA",
+    "lineCode": 1058
+  },
+  "2143": {
+    "lineID": "602",
+    "lineDescr": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤ. ΠΑΝΟΡΜΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "N. IONIA - KALOGREZA - ST. PANORMOY ",
+    "lineCode": 981
+  },
+  "2144": {
+    "lineID": "610",
+    "lineDescr": "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "FILOTHEI - AMPELOKIPOI ",
+    "lineCode": 985
+  },
+  "2146": {
+    "lineID": "862",
+    "lineDescr": "ΠΑΡΑΛΙΑ - ΑΝΩ ΕΛΕΥΣΙΝΑ",
+    "lineDescrEng": "PARALIA - ANO ELEYSINA",
+    "lineCode": 996
+  },
+  "2150": {
+    "lineID": "862",
+    "lineDescr": "ΠΑΡΑΛΙΑ - ΑΝΩ ΕΛΕΥΣΙΝΑ",
+    "lineDescrEng": "PARALIA - ANO ELEYSINA",
+    "lineCode": 996
+  },
+  "2157": {
+    "lineID": "653",
+    "lineDescr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PSYCHIKO - PANORMOY Β ",
+    "lineCode": 1007
+  },
+  "2159": {
+    "lineID": "116",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΚΙΤΣΙ",
+    "lineDescrEng": "GLYFADA - VARI - KITSI",
+    "lineCode": 929
+  },
+  "2162": {
+    "lineID": "904",
+    "lineDescr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΣΤ. ΠΕΙΡΑΙΑ - ΦΡΕΑΤΤΥΔΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PL. KARAΪSKAKI - ST. PEIRAIA - FREATΤYDA ",
+    "lineCode": 1015
+  },
+  "2167": {
+    "lineID": "Β5",
+    "lineDescr": "ΣΤ. ΛΑΡΙΣΗΣ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "lineDescrEng": "ST. LARISIS - L. ALEXANDRAS - AG. PARASKEYI",
+    "lineCode": 1024
+  },
+  "2168": {
+    "lineID": "Β5",
+    "lineDescr": "ΣΤ. ΛΑΡΙΣΗΣ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "lineDescrEng": "ST. LARISIS - L. ALEXANDRAS - AG. PARASKEYI",
+    "lineCode": 1024
+  },
+  "2169": {
+    "lineID": "446",
+    "lineDescr": "ΣΤ. ΑΜΑΡΟΥΣΙΟΥ - ΝΟΣΟΚ. ΠΕΝΤΕΛΗΣ (ΜΕΣΩ ΠΙΚΠΑ)",
+    "lineDescrEng": "ST. AMAROYSIOY - NOSOK. PENTELIS (VIA PIKPA)",
+    "lineCode": 1055
+  },
+  "2170": {
+    "lineID": "446",
+    "lineDescr": "ΣΤ. ΑΜΑΡΟΥΣΙΟΥ - ΝΟΣΟΚ. ΠΕΝΤΕΛΗΣ (ΜΕΣΩ ΠΙΚΠΑ)",
+    "lineDescrEng": "ST. AMAROYSIOY - NOSOK. PENTELIS (VIA PIKPA)",
+    "lineCode": 1055
+  },
+  "2173": {
+    "lineID": "461",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. CHALANDRI - P. PENTELI - CHALANDRI ",
+    "lineCode": 1062
+  },
+  "2182": {
+    "lineID": "642",
+    "lineDescr": "ΗΡΑΚΛΕΙΟ - ΑΓ. ΝΕΚΤΑΡΙΟΣ - ΠΕΥΚΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "IRAKLEIO - AG. NEKTARIOS - PEYKI ",
+    "lineCode": 982
+  },
+  "2184": {
+    "lineID": "Χ14",
+    "lineDescr": "ΣΥΝΤΑΓΜΑ - ΚΗΦΙΣΙΑ (EXPRESS-ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "SYNTAGMA - KIFISIA (EXPRESS-NIGHTLINE)",
+    "lineCode": 993
+  },
+  "2185": {
+    "lineID": "Χ14",
+    "lineDescr": "ΣΥΝΤΑΓΜΑ - ΚΗΦΙΣΙΑ (EXPRESS-ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "SYNTAGMA - KIFISIA (EXPRESS-NIGHTLINE)",
+    "lineCode": 993
+  },
+  "2187": {
+    "lineID": "115",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΚΙΤΣΙ",
+    "lineDescrEng": "GLYFADA - VOULIAGMENI - KITSI",
+    "lineCode": 1008
+  },
+  "2188": {
+    "lineID": "503",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΒΑΡΥΜΠΟΜΠΗ",
+    "lineDescrEng": "ZIRINEIO - VARYMPOMPI",
+    "lineCode": 913
+  },
+  "2204": {
+    "lineID": "Β15",
+    "lineDescr": "ΣΤ. ΛΑΡΙΣΗΣ - ΠΑΛΑΤΑΚΙ",
+    "lineDescrEng": "ST. LARISIS - PALATAKI",
+    "lineCode": 903
+  },
+  "2215": {
+    "lineID": "219",
+    "lineDescr": "ΣΤ. ΚΑΛΛΙΘΕΑ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+    "lineDescrEng": "ST. KALLITHEA - AG. DIMITRIOS",
+    "lineCode": 1036
+  },
+  "2219": {
+    "lineID": "619",
+    "lineDescr": "ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "METAMORFOSI - N. FILADELFEIA - ST. ANO PATISIA ",
+    "lineCode": 1063
+  },
+  "2226": {
+    "lineID": "733",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - ANO LIOSIA ",
+    "lineCode": 907
+  },
+  "2228": {
+    "lineID": "816",
+    "lineDescr": "ΤΑΥΡΟΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+    "lineDescrEng": "TAYROS - AG. DIMITRIOS",
+    "lineCode": 1037
+  },
+  "2229": {
+    "lineID": "501",
+    "lineDescr": "ΠΕΥΚΗ - ΜΑΡΟΥΣΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEYKI - MAROYSI ",
+    "lineCode": 977
+  },
+  "2230": {
+    "lineID": "527",
+    "lineDescr": "ΠΕΥΚΗ - ΝΕΡΑΤΖΙΩΤΙΣΣΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEYKI - NERATZIOTISSA ",
+    "lineCode": 978
+  },
+  "2267": {
+    "lineID": "242",
+    "lineDescr": "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΤΕΧΝΕΙΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KATECHAKI - POLITECHNIOUPOLI",
+    "lineCode": 951
+  },
+  "2274": {
+    "lineID": "911",
+    "lineDescr": "ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ - ΙΔΡ. ΤΥΦΛΩΝ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "STATH. KALLITHEAS - IDR. TYFLON ",
+    "lineCode": 1017
+  },
+  "2289": {
+    "lineID": "524",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΠΟΛΙΤΕΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA - POLITEIA ",
+    "lineCode": 1001
+  },
+  "2292": {
+    "lineID": "316",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - ARTEMIS",
+    "lineCode": 1005
+  },
+  "2293": {
+    "lineID": "864",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΒΙΟΜΗΧΑΝΙΚΗ ΠΕΡΙΟΧΗ ΜΑΓΟΥΛΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ELEYSINA - VIOMICHANIKI ZONI MAGOYLAS",
+    "lineCode": 814
+  },
+  "2295": {
+    "lineID": "702",
+    "lineDescr": "ΤΟΠΙΚΗ ΚΑΜΑΤΕΡΟΥ (ΣΧΟΛΙΚΗ) (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "TOPIKI KAMATEROY",
+    "lineCode": 1022
+  },
+  "2326": {
+    "lineID": "411",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUKISSIS PLAKENTIAS - SISMANOGLIO - CHALANDRI",
+    "lineCode": 1053
+  },
+  "2362": {
+    "lineID": "640",
+    "lineDescr": "ΤΟΠΙΚΗ ΗΡΑΚΛΕΙΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "TOPIKI IRAKLEIOY ",
+    "lineCode": 984
+  },
+  "2427": {
+    "lineID": "306",
+    "lineDescr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜ.ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.DOYK.PLAKENTIAS-DIM.GERAKA-BALANA GERAKA",
+    "lineCode": 1042
+  },
+  "2445": {
+    "lineID": "731",
+    "lineDescr": "ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ - ΑΤΤΙΚΟ ΝΟΣ. - ΔΑΣΟΣ",
+    "lineDescrEng": "ANTHOUPOLI - ST. M. ANTHOUPOLI - ATTIKO NOS. - DASOS",
+    "lineCode": 845
+  },
+  "2447": {
+    "lineID": "724",
+    "lineDescr": " ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - Ν. ΙΩΝΙΑ (ΚΥΚΛΙΚΗ) ",
+    "lineDescrEng": "ACHARNAI (MESONYCHI) - N. IONIA ",
+    "lineCode": 1064
+  },
+  "2458": {
+    "lineID": "832",
+    "lineDescr": "ΕΥΓΕΝΕΙΑ-ΧΑΡΑΥΓΗ-ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "EYGENEIA-CHARAYGI-PEIRAIAS A",
+    "lineCode": 1137
+  },
+  "2477": {
+    "lineID": "727",
+    "lineDescr": "ΜΕΣΟΝΥΧΙ - ΑΓ. ΚΩΝΣΤΑΝΤΙΝΟΣ - ΑΓ.ΠΑΡΑΣΚΕΥΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "MESONYXI - AG.KONSTANTINOS - AG.PARASKEYH",
+    "lineCode": 1147
+  },
+  "2484": {
+    "lineID": "021",
+    "lineDescr": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ - ΓΚΥΖH (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PLATEIA KANIGKOS - GKIZI",
+    "lineCode": 1151
+  },
+  "2493": {
+    "lineID": "123",
+    "lineDescr": "ΣΑΡΩΝΙΔΑ-ΑΝΑΒΥΣΣΟΣ-ΠΑΛΑΙΑ ΦΩΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "SARONIDA-ANAVISSOS-P.FOKAIA",
+    "lineCode": 1124
+  },
+  "2509": {
+    "lineID": "605",
+    "lineDescr": "ΠΕΡΙΣΣΟΣ - ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PERISSOS - ANO PATISIA",
+    "lineCode": 822
+  },
+  "2513": {
+    "lineID": "307",
+    "lineDescr": "ΣΤ. Δ.ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΣΤ.ΠΡΟΑΣΤ. ΚΟΡΩΠΙ",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - GL. NERA - PROAST. KOROPIOY",
+    "lineCode": 1041
+  },
+  "2544": {
+    "lineID": "301Β",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ-ΑΝΘΟΥΣΑ-ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1165
+  },
+  "2545": {
+    "lineID": "301Β",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ-ΑΝΘΟΥΣΑ-ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1165
+  },
+  "2551": {
+    "lineID": "910",
+    "lineDescr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. SYGGROY FIX - TZITZIFIES",
+    "lineCode": 961
+  },
+  "2552": {
+    "lineID": "141",
+    "lineDescr": "ΣΤ. ΔΑΦΝΗ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DAFNIS - KALAMAKI",
+    "lineCode": 1032
+  },
+  "2556": {
+    "lineID": "206",
+    "lineDescr": "ΑΓ.ΜΑΡΙΝΑ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AGIA MARINA - ST. DAFNIS",
+    "lineCode": 1172
+  },
+  "2557": {
+    "lineID": "237",
+    "lineDescr": "ΑΝΩ ΗΛΙΟΥΠΟΛΗ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANO ILIOUPOLI - ST.DAFNIS",
+    "lineCode": 1173
+  },
+  "2560": {
+    "lineID": "131",
+    "lineDescr": "ΑΜΑΞ. ΑΓ. ΔΗΜΗΤΡΙΟΥ - ΣΤ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AMAX. AG. DIMITRIOU - ST. DAFNI",
+    "lineCode": 1175
+  },
+  "2598": {
+    "lineID": "Α8",
+    "lineDescr": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΑΓΩΝΑ-ΟΑΚΑ)",
+    "lineDescrEng": "POLYTEXNEIO - N. IONIA - MAROUSI (DUE TO ATHLETIC EVENTS)",
+    "lineCode": 1184
+  },
+  "2599": {
+    "lineID": "Α8",
+    "lineDescr": "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΑΓΩΝΑ-ΟΑΚΑ)",
+    "lineDescrEng": "POLYTEXNEIO - N. IONIA - MAROUSI (DUE TO ATHLETIC EVENTS)",
+    "lineCode": 1184
+  },
+  "2615": {
+    "lineID": "410",
+    "lineDescr": "Ο.Α.Κ.Α. - ΑΝΩ ΜΕΛΙΣΣΙΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΑΓΩΝΑ-ΟΑΚΑ)",
+    "lineDescrEng": "O.A.K.A. - ANO MELISSIA (DUE TO ATHLETIC EVENTS)",
+    "lineCode": 1190
+  },
+  "2617": {
+    "lineID": "405",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. CHALANDRIOU - MELISSIA",
+    "lineCode": 802
+  },
+  "2640": {
+    "lineID": "024",
+    "lineDescr": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AG. ANARGYROI - ST. KATO PATHSIA",
+    "lineCode": 750
+  },
+  "2644": {
+    "lineID": "833",
+    "lineDescr": "ΕΥΓΕΝΕΙΑ-ΧΑΡΑΥΓΗ-ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "EYGENEIA-CHARAYGI-PEIRAIAS B",
+    "lineCode": 1197
+  },
+  "2645": {
+    "lineID": "859",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ-ΔΕΞΑΜΕΝΕΣ-ΝΕΟΣ ΜΩΛΟΣ ΔΡΑΠΕΤΣΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - DEXAMENES - N.MOLOS DRAPETSONAS",
+    "lineCode": 1013
+  },
+  "2646": {
+    "lineID": "832",
+    "lineDescr": "ΕΥΓΕΝΕΙΑ-ΧΑΡΑΥΓΗ-ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "EYGENEIA-CHARAYGI-PEIRAIAS A",
+    "lineCode": 1137
+  },
+  "2654": {
+    "lineID": "726",
+    "lineDescr": "ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ (BOYNO)   (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI(MESONYCHI)-THRAKOMAKEDONES (MOUNT PARNITHA)",
+    "lineCode": 1134
+  },
+  "2712": {
+    "lineID": "822",
+    "lineDescr": "ΣΤ.ΑΓ.ΑΝΤΩΝΙΟΣ -ΝΕΑ ΖΩΗ (ΑΠΟ ΣΤ. ΑΓ.ΑΝΤΩΝΙΟΣ ΕΩΣ ΑΛΣΟΣ ΝΕΑ ΖΩΗ)",
+    "lineDescrEng": "ST.AG.ANTONIOS - NEA ZOI (ST.AG.ANTONIOS TO N.ZOI)",
+    "lineCode": 1211
+  },
+  "2740": {
+    "lineID": "523",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA - ADAMES B ",
+    "lineCode": 997
+  },
+  "2758": {
+    "lineID": "833",
+    "lineDescr": "ΕΥΓΕΝΕΙΑ-ΧΑΡΑΥΓΗ-ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "EYGENEIA-CHARAYGI-PEIRAIAS B",
+    "lineCode": 1197
+  },
+  "2759": {
+    "lineID": "106",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "AG. BARBARA - ST. SYGGROY FIX (TO AKADIMIA)",
+    "lineCode": 1221
+  },
+  "2770": {
+    "lineID": "326",
+    "lineDescr": "ΣΤ. ΚΑΝΤΖΑ - ΣΠΑΤΑ - ΑΡΤΕΜΙΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ARTEMIS - KANTZA",
+    "lineCode": 1223
+  },
+  "2783": {
+    "lineID": "500",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ(ΠΛ.ΠΛΑΤΑΝΟΥ) (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - KIFISIA - (PL.PLATANOU) (NIGHT LINE)",
+    "lineCode": 877
+  },
+  "2797": {
+    "lineID": "461",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. CHALANDRI - P. PENTELI - CHALANDRI ",
+    "lineCode": 1062
+  },
+  "2805": {
+    "lineID": "831",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ-ΑΙΓΑΛΕΩ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΔΕΥΤΕΡΑ)",
+    "lineDescrEng": "PEIRAIAS - AIGALEO (EVERY MONDAY DURING THE FARMERS MARKET)",
+    "lineCode": 1228
+  },
+  "2809": {
+    "lineID": "219",
+    "lineDescr": "ΣΤ. ΚΑΛΛΙΘΕΑ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+    "lineDescrEng": "ST. KALLITHEA - AG. DIMITRIOS",
+    "lineCode": 1036
+  },
+  "2810": {
+    "lineID": "218",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΤ. ΔΑΦΝΗ",
+    "lineDescrEng": "PEIRAIAS - ST. DAFNI",
+    "lineCode": 1035
+  },
+  "2811": {
+    "lineID": "816",
+    "lineDescr": "ΤΑΥΡΟΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+    "lineDescrEng": "TAYROS - AG. DIMITRIOS",
+    "lineCode": 1037
+  },
+  "2835": {
+    "lineID": "411",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUKISSIS PLAKENTIAS - SISMANOGLIO - CHALANDRI",
+    "lineCode": 1053
+  },
+  "2838": {
+    "lineID": "447",
+    "lineDescr": "ΧΑΛΑΝΔΡΙ - ΑΝΩ ΒΡΙΛΗΣΣΙΑ",
+    "lineDescrEng": "CHALANDRI - ANO BRILHSSIA",
+    "lineCode": 976
+  },
+  "2840": {
+    "lineID": "451",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. CHALANDRI - NEA PENTELI - CHALANDRI",
+    "lineCode": 1060
+  },
+  "2847": {
+    "lineID": "416",
+    "lineDescr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. ETHN.AMYNAS - CHOLARGOS",
+    "lineCode": 1236
+  },
+  "2848": {
+    "lineID": "418",
+    "lineDescr": "ΣΤ. ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ-ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.ETHNIKIS AMYNAS-SCHOL. CHOLARGOY",
+    "lineCode": 1237
+  },
+  "2849": {
+    "lineID": "418",
+    "lineDescr": "ΣΤ. ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ-ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.ETHNIKIS AMYNAS-SCHOL. CHOLARGOY",
+    "lineCode": 1237
+  },
+  "2857": {
+    "lineID": "891",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΑΙΓΑΛΕΩ - ΠΕΡΙΣΤΕΡΙ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AG. BARBARA - AIGALEO - PERISTERI - STATH. ATTIKIS",
+    "lineCode": 1183
+  },
+  "2858": {
+    "lineID": "892",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΙΛΙΟΝ",
+    "lineDescrEng": "AG. VARVARA - CHAIDARI - AG. ANARGYROI-ILION",
+    "lineCode": 844
+  },
+  "2878": {
+    "lineID": "730",
+    "lineDescr": "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ",
+    "lineDescrEng": "LOFOS AKSIOMATIKON - ST. AGIOS ANTONIOS - ZOODOCHOS PIGI",
+    "lineCode": 989
+  },
+  "2899": {
+    "lineID": "218",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΤ. ΔΑΦΝΗ",
+    "lineDescrEng": "PEIRAIAS - ST. DAFNI",
+    "lineCode": 1035
+  },
+  "2900": {
+    "lineID": "500",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ(ΠΛ.ΠΛΑΤΑΝΟΥ) (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - KIFISIA - (PL.PLATANOU) (NIGHT LINE)",
+    "lineCode": 877
+  },
+  "2951": {
+    "lineID": "550",
+    "lineDescr": "Π. ΦΑΛΗΡΟ - ΚΗΦΙΣΙΑ",
+    "lineDescrEng": "P. FALIRO - KIFISIA",
+    "lineCode": 959
+  },
+  "2953": {
+    "lineID": "035",
+    "lineDescr": "ΑΝΩ ΚΥΨΕΛΗ - ΠΕΤΡΑΛΩΝΑ - ΤΑΥΡΟΣ",
+    "lineDescrEng": "ANO KYPSELI - PETRALONA - TAVROS",
+    "lineCode": 816
+  },
+  "2979": {
+    "lineID": "Β15",
+    "lineDescr": "ΣΤ. ΛΑΡΙΣΗΣ - ΠΑΛΑΤΑΚΙ",
+    "lineDescrEng": "ST. LARISIS - PALATAKI",
+    "lineCode": 903
+  },
+  "2980": {
+    "lineID": "Α15",
+    "lineDescr": "ΣΤ. ΛΑΡΙΣΗΣ - ΔΑΣΟΣ",
+    "lineDescrEng": "ST. LARISIS - DASOS",
+    "lineCode": 840
+  },
+  "2994": {
+    "lineID": "523",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA - ADAMES B ",
+    "lineCode": 997
+  },
+  "2995": {
+    "lineID": "049",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΟΜΟΝΟΙΑ",
+    "lineDescrEng": "PEIRAIAS - OMONOIA",
+    "lineCode": 819
+  },
+  "3008": {
+    "lineID": "Χ96",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)-ΝΥΧΤΕΡΙΝΗ",
+    "lineDescrEng": "PEIRAIAS - AEROLIMENAS ATHINON (EXPRESS) (LATE AND NIGHT HOURS)",
+    "lineCode": 1153
+  },
+  "3019": {
+    "lineID": "117",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΒΑΡΗ",
+    "lineDescrEng": "GLYFADA - VOULIAGMENI - VARI",
+    "lineCode": 932
+  },
+  "3032": {
+    "lineID": "116",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΚΙΤΣΙ",
+    "lineDescrEng": "GLYFADA - VARI - KITSI",
+    "lineCode": 929
+  },
+  "3040": {
+    "lineID": "817",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ",
+    "lineDescrEng": "ELEYSINA - MANDRA",
+    "lineCode": 812
+  },
+  "3041": {
+    "lineID": "817",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ",
+    "lineDescrEng": "ELEYSINA - MANDRA",
+    "lineCode": 812
+  },
+  "3086": {
+    "lineID": "049",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΟΜΟΝΟΙΑ",
+    "lineDescrEng": "PEIRAIAS - OMONOIA",
+    "lineCode": 819
+  },
+  "3093": {
+    "lineID": "036",
+    "lineDescr": "ΣΤ. ΚΑΤΕΧΑΚΗ -ΣΤ. ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΜΕΧΡΙ ΠΛΑΤΕΙΑ ΚΥΨΕΛΗΣ)",
+    "lineDescrEng": "KATECHAKI - KYPSELI",
+    "lineCode": 1219
+  },
+  "3100": {
+    "lineID": "314",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΡΑΦΗΝΑ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "lineDescrEng": "ST.DOUK.PLAKENTIAS - PALLINI - RAFINA (VIA PANORAMA)",
+    "lineCode": 1271
+  },
+  "3103": {
+    "lineID": "314",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΡΑΦΗΝΑ",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - PALLINI - RAFINA",
+    "lineCode": 1272
+  },
+  "3145": {
+    "lineID": "15",
+    "lineDescr": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ (ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "lineDescrEng": "PETRALONA - DIKASTIRIA - EL. VENIZELOY (ΤΟ OMONOIA)",
+    "lineCode": 1275
+  },
+  "3196": {
+    "lineID": "Χ96",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)-ΝΥΧΤΕΡΙΝΗ",
+    "lineDescrEng": "PEIRAIAS - AEROLIMENAS ATHINON (EXPRESS) (LATE AND NIGHT HOURS)",
+    "lineCode": 1153
+  },
+  "3198": {
+    "lineID": "640",
+    "lineDescr": "ΤΟΠΙΚΗ ΗΡΑΚΛΕΙΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "TOPIKI IRAKLEIOY ",
+    "lineCode": 984
+  },
+  "3241": {
+    "lineID": "740",
+    "lineDescr": "ΟΛΥΜΠ. ΧΩΡΙΟ - ΣΚΑ - ΑΧΑΡΝΑΙ -ΟΑΚΑ",
+    "lineDescrEng": "OLYMP. CHORIO - SKA - ACHARNAI (TO OAKA)",
+    "lineCode": 1324
+  },
+  "3245": {
+    "lineID": "740",
+    "lineDescr": "ΟΑΚΑ -  ΣΚΑ - ΑΧΑΡΝΑΙ - ΟΛΥΜΠ. ΧΩΡΙΟ",
+    "lineDescrEng": "OLYMP. CHORIO - SKA - ACHARNAI (FROM OAKA)",
+    "lineCode": 1325
+  },
+  "3252": {
+    "lineID": "407",
+    "lineDescr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ- Ν. ΖΩH-ΣΤ.ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.D.PLAKENTIAS-N.ZOI-ST.NOMISMATOKOPEIO",
+    "lineCode": 1327
+  },
+  "3254": {
+    "lineID": "407",
+    "lineDescr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ- Ν. ΖΩH-ΣΤ.ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.D.PLAKENTIAS-N.ZOI-ST.NOMISMATOKOPEIO",
+    "lineCode": 1327
+  },
+  "3256": {
+    "lineID": "115",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΚΙΤΣΙ",
+    "lineDescrEng": "GLYFADA - VOULIAGMENI - KITSI",
+    "lineCode": 1008
+  },
+  "3259": {
+    "lineID": "740",
+    "lineDescr": "ΟΛΥΜΠ. ΧΩΡΙΟ - ΣΚΑ - ΑΧΑΡΝΑΙ - ΑΓ. ΑΝΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "OLYMP. CHORIO - SKA - ACHARNAI - AG. ANNA",
+    "lineCode": 1065
+  },
+  "3267": {
+    "lineID": "301Β",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ-ΑΝΘΟΥΣΑ-ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1165
+  },
+  "3275": {
+    "lineID": "301Β",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ-ΑΝΘΟΥΣΑ-ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1165
+  },
+  "3338": {
+    "lineID": "748",
+    "lineDescr": "ΧΡΥΣΟΥΠΟΛΗ - ΑΝΘΟΥΠΟΛΗ - ΣΤ. ΠΕΡΙΣΤΕΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "CHRYSOYPOLI - ANTHOYPOLI - ST. PERISTERI",
+    "lineCode": 835
+  },
+  "3342": {
+    "lineID": "323",
+    "lineDescr": "ΑΓ.ΝΙΚΟΛΑΟΣ -  ΑΓ.ΚΥΡΙΑΚΗ -  ΒΡΑΥΡΩΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AGIOS NIKOLAOS - AG.KYRIAKI - VRAVRONA",
+    "lineCode": 1045
+  },
+  "3345": {
+    "lineID": "803",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ ΧΑΪΔΑΡΙΟΥ",
+    "lineDescrEng": "PEIRAIAS - DASOS HAIDARIOU",
+    "lineCode": 1354
+  },
+  "3347": {
+    "lineID": "803",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ ΧΑΪΔΑΡΙΟΥ",
+    "lineDescrEng": "PEIRAIAS - DASOS HAIDARIOU",
+    "lineCode": 1354
+  },
+  "3373": {
+    "lineID": "120",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΠΡΟΑΣΤΙΑΚΟΣ ΣΤ. ΚΟΡΩΠΙΟΥ",
+    "lineDescrEng": "GLYFADA - VARI - PROAST. KOROPIOU",
+    "lineCode": 940
+  },
+  "3375": {
+    "lineID": "120",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΠΡΟΑΣΤΙΑΚΟΣ ΣΤ. ΚΟΡΩΠΙΟΥ",
+    "lineDescrEng": "GLYFADA - VARI - PROAST. KOROPIOU",
+    "lineCode": 940
+  },
+  "3378": {
+    "lineID": "752",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - AG. IOANNIS - AG. PETROS ",
+    "lineCode": 909
+  },
+  "3379": {
+    "lineID": "752",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - AG. IOANNIS - AG. PETROS ",
+    "lineCode": 909
+  },
+  "3385": {
+    "lineID": "709",
+    "lineDescr": "ΤΟΠΙΚΟ ΔΡΟΣΟΥΠΟΛΗΣ",
+    "lineDescrEng": "DROSOYPOLI ",
+    "lineCode": 1131
+  },
+  "3388": {
+    "lineID": "250",
+    "lineDescr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ (ΕΩΣ ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ)",
+    "lineDescrEng": "PANEPISTIMIOUPOLI - ST. EVAGGELISMOS (TO ST. EVAGGELISMOS)",
+    "lineCode": 1369
+  },
+  "3394": {
+    "lineID": "410",
+    "lineDescr": "Ο.Α.Κ.Α. - ΑΝΩ ΜΕΛΙΣΣΙΑ (ΔΙΕΛΕΥΣΗ ΑΠΟ ΝΕΚΡΟΤΑΦΕΙΟ)",
+    "lineDescrEng": "O.A.K.A. - ANO MELISSIA (VIA CEMETERY)",
+    "lineCode": 1370
+  },
+  "3411": {
+    "lineID": "164",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ",
+    "lineDescrEng": "ST. AGIOS DIMITRIOS - K. IL/POLI - ARG/POLI - TERPSITHEA",
+    "lineCode": 924
+  },
+  "3427": {
+    "lineID": "203",
+    "lineDescr": "ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KAREAS - AKADIMIA ",
+    "lineCode": 926
+  },
+  "3428": {
+    "lineID": "204",
+    "lineDescr": "ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "STR. SAKETA - AKADIMIA ",
+    "lineCode": 946
+  },
+  "3430": {
+    "lineID": "204Β",
+    "lineDescr": "ΕΚΕΜΣ - ΑΚΑΔΗΜΙΑ(ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "EKEMS -AKADIMIA",
+    "lineCode": 1178
+  },
+  "3446": {
+    "lineID": "447",
+    "lineDescr": "ΧΑΛΑΝΔΡΙ - ΑΝΩ ΒΡΙΛΗΣΣΙΑ",
+    "lineDescrEng": "CHALANDRI - ANO BRILHSSIA",
+    "lineCode": 976
+  },
+  "3447": {
+    "lineID": "060",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΛΥΚΑΒΗΤΤΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AKADIMIA - LYKAVITTOS",
+    "lineCode": 1376
+  },
+  "3456": {
+    "lineID": "410",
+    "lineDescr": "ΑΝΩ ΜΕΛΙΣΣΙΑ -Ο.Α.Κ.Α. (ΑΠΟ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "lineDescrEng": "O.A.K.A. - ANO MELISSIA (FROM KLEIOUS)",
+    "lineCode": 1379
+  },
+  "3457": {
+    "lineID": "410",
+    "lineDescr": "Ο.Α.Κ.Α. - ΑΝΩ ΜΕΛΙΣΣΙΑ (ΕΩΣ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "lineDescrEng": "O.A.K.A. - ANO MELISSIA (TO KLEIOUS)",
+    "lineCode": 1380
+  },
+  "3463": {
+    "lineID": "750",
+    "lineDescr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ  (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΠΑΡΑΣΚΕΥΗ)",
+    "lineDescrEng": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "lineCode": 1382
+  },
+  "3468": {
+    "lineID": "731",
+    "lineDescr": "ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ - ΑΤΤΙΚΟ ΝΟΣ. - ΔΑΣΟΣ",
+    "lineDescrEng": "ANTHOUPOLI - ST. M. ANTHOUPOLI - ATTIKO NOS. - DASOS",
+    "lineCode": 845
+  },
+  "3476": {
+    "lineID": "915",
+    "lineDescr": "ΛΟΦΟΣ ΒΩΚΟΥ - ΠΡ. ΗΛΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "LOFOS VOKOY - PR. ILIAS ",
+    "lineCode": 1018
+  },
+  "3477": {
+    "lineID": "803",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ ΧΑΪΔΑΡΙΟΥ",
+    "lineDescrEng": "PEIRAIAS - DASOS HAIDARIOU",
+    "lineCode": 1354
+  },
+  "3478": {
+    "lineID": "803",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ ΧΑΪΔΑΡΙΟΥ",
+    "lineDescrEng": "PEIRAIAS - DASOS HAIDARIOU",
+    "lineCode": 1354
+  },
+  "3486": {
+    "lineID": "748",
+    "lineDescr": "ΧΡΥΣΟΥΠΟΛΗ - ΑΝΘΟΥΠΟΛΗ - ΣΤ. ΠΕΡΙΣΤΕΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "CHRYSOYPOLI - ANTHOYPOLI - ST. PERISTERI",
+    "lineCode": 835
+  },
+  "3487": {
+    "lineID": "Ε14",
+    "lineDescr": "ΣΥΝΤΑΓΜΑ - Ο.Α.Κ.Α. - ΥΠ. ΠΑΙΔΕΙΑΣ (EXPRESS)",
+    "lineDescrEng": "SYNTAGMA - O.A.K.A. - YP. PAIDEIAS (EXPRESS)",
+    "lineCode": 1383
+  },
+  "3488": {
+    "lineID": "Ε14",
+    "lineDescr": "ΣΥΝΤΑΓΜΑ - Ο.Α.Κ.Α. - ΥΠ. ΠΑΙΔΕΙΑΣ (EXPRESS)",
+    "lineDescrEng": "SYNTAGMA - O.A.K.A. - YP. PAIDEIAS (EXPRESS)",
+    "lineCode": 1383
+  },
+  "3489": {
+    "lineID": "711",
+    "lineDescr": "ΣΤ. ΑΤΤΙΚΗ - ΖΩΦΡΙΑ",
+    "lineDescrEng": "ST. ATTIKI - ZOFRIA",
+    "lineCode": 1384
+  },
+  "3490": {
+    "lineID": "711",
+    "lineDescr": "ΣΤ. ΑΤΤΙΚΗ - ΖΩΦΡΙΑ",
+    "lineDescrEng": "ST. ATTIKI - ZOFRIA",
+    "lineCode": 1384
+  },
+  "3491": {
+    "lineID": "Β12",
+    "lineDescr": "ΣΤ. ΑΤΤΙΚΗ - ΑΝΩ ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ)",
+    "lineDescrEng": "ST. ATTIKI -  ANO LIOSIA (PANORAMA)",
+    "lineCode": 1386
+  },
+  "3494": {
+    "lineID": "022",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - Ν. ΚΥΨΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AKADIMIA - NEA KYPSELI ",
+    "lineCode": 1375
+  },
+  "3515": {
+    "lineID": "824",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI - AG. ANTONIOS - PEIRAIAS A ",
+    "lineCode": 878
+  },
+  "3526": {
+    "lineID": "421",
+    "lineDescr": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "lineDescrEng": "AGIOI ANARGYROI - AGIA PARASKEVI",
+    "lineCode": 967
+  },
+  "3527": {
+    "lineID": "421",
+    "lineDescr": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "lineDescrEng": "AGIOI ANARGYROI - AGIA PARASKEVI",
+    "lineCode": 967
+  },
+  "3530": {
+    "lineID": "12",
+    "lineDescr": "ΖΑΠΠΕΙΟ - ΠΕΡΙΣΤΕΡΙ (ΑΓ. ΙΕΡΟΘΕΟΣ)",
+    "lineDescrEng": "ZAPPEIO - PERISTERI (AG. IEROTHEOS)",
+    "lineCode": 1080
+  },
+  "3536": {
+    "lineID": "Α13",
+    "lineDescr": "ΟΜΟΝΟΙΑ - ΚΗΠΟΥΠΟΛΗ",
+    "lineDescrEng": "OMONOIA - KIPOYPOLI",
+    "lineCode": 866
+  },
+  "3567": {
+    "lineID": "201",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. AG. DIMITRIOS - ARGYROYPOLI",
+    "lineCode": 1176
+  },
+  "3576": {
+    "lineID": "820",
+    "lineDescr": "ΚΕΡΑΤΣΙΝΙ - ΣΤ.ΝΙΚΑΙΑ - ΔΡΑΠΕΤΣΩΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KERATSINI - ST.NIKAIA -  DRAPETSONA ",
+    "lineCode": 1399
+  },
+  "3582": {
+    "lineID": "837",
+    "lineDescr": "ΑΓΙΑ ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AGIA VARVARA - ST. AG.VARVARA - ST.AG.MARINA",
+    "lineCode": 1404
+  },
+  "3586": {
+    "lineID": "826",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - AG. MINAS",
+    "lineCode": 1406
+  },
+  "3587": {
+    "lineID": "301",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ-ΠΕΝΤΕΛΗ (ΑΠΟ ΤΕΡΜΑ ΚΑΛΛΙΣΙΩΝ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI (FROM TERMA KALLISION)",
+    "lineCode": 1415
+  },
+  "3588": {
+    "lineID": "302",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΕΡΑΚΑΣ (ΕΩΣ ΣΤΑΣΗ Β.ΡΩΤΑ)",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - GERAKAS (TO B.ROTA)",
+    "lineCode": 1409
+  },
+  "3589": {
+    "lineID": "530",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. KIFISIA - MELISSIA - N. PENTELI",
+    "lineCode": 999
+  },
+  "3590": {
+    "lineID": "530",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. KIFISIA - MELISSIA - N. PENTELI",
+    "lineCode": 999
+  },
+  "3591": {
+    "lineID": "530",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. KIFISIA - MELISSIA - N. PENTELI",
+    "lineCode": 999
+  },
+  "3592": {
+    "lineID": "306",
+    "lineDescr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜ.ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ (ΑΠΟ ΣΤΑΣΗ ΜΑΡΑΘΩΝΟΣ)",
+    "lineDescrEng": "ST.DOYK.PLAKENTIAS-DIM.GERAKA-BALANA GERAKA (FROM MARATHONOS)",
+    "lineCode": 1410
+  },
+  "3593": {
+    "lineID": "227",
+    "lineDescr": "ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ",
+    "lineDescrEng": "ANO PETRALONA - AG. ARTEMIOS",
+    "lineCode": 847
+  },
+  "3608": {
+    "lineID": "235",
+    "lineDescr": "ΖΩΓΡΑΦΟΥ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ZOGRAFOY - AKADIMIA ",
+    "lineCode": 950
+  },
+  "3609": {
+    "lineID": "Α5",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΑΝΘΟΥΣΑ",
+    "lineDescrEng": "AKADIMIA - AG. PARASKEYI - ANTHOYSA",
+    "lineCode": 1058
+  },
+  "3614": {
+    "lineID": "Α3",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΓΛΥΦΑΔΑ (ΜΕΣΩ Λ. ΒΟΥΛΙΑΓΜΕΝΗΣ)",
+    "lineDescrEng": "AKADIMIA - GLYFADA (VIA L. VOULIAGMENIS)",
+    "lineCode": 1422
+  },
+  "3620": {
+    "lineID": "319",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (ΑΠΟ ΓΗΠΕΔΟ ΣΠΑΤΩΝ)",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (FROM GIPEDO SPAT)",
+    "lineCode": 1425
+  },
+  "3625": {
+    "lineID": "856",
+    "lineDescr": "ΑΙΓΑΛΕΩ - ΥΜΗΤΤΟΣ - ΔΑΦΝΗ",
+    "lineDescrEng": "AIGALEO - YMITTOS - DAFNI",
+    "lineCode": 879
+  },
+  "3627": {
+    "lineID": "21",
+    "lineDescr": "ΝΙΚΑΙΑ - Π. ΡΑΛΛΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NIKAIA - P. RALLI - OMONOIA ",
+    "lineCode": 1082
+  },
+  "3629": {
+    "lineID": "852",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI - ST. METRO AIGALEO ",
+    "lineCode": 875
+  },
+  "3630": {
+    "lineID": "750",
+    "lineDescr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ",
+    "lineDescrEng": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "lineCode": 886
+  },
+  "3631": {
+    "lineID": "750",
+    "lineDescr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ",
+    "lineDescrEng": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "lineCode": 886
+  },
+  "3632": {
+    "lineID": "750",
+    "lineDescr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ  (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΠΑΡΑΣΚΕΥΗ)",
+    "lineDescrEng": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "lineCode": 1382
+  },
+  "3636": {
+    "lineID": "831",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ-ΑΙΓΑΛΕΩ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΔΕΥΤΕΡΑ)",
+    "lineDescrEng": "PEIRAIAS - AIGALEO (EVERY MONDAY DURING THE FARMERS MARKET)",
+    "lineCode": 1228
+  },
+  "3637": {
+    "lineID": "831",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ",
+    "lineDescrEng": "PEIRAIAS - AIGALEO",
+    "lineCode": 874
+  },
+  "3647": {
+    "lineID": "451",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΕΩΣ ΣΤΑΣΗ ΠΛ.ΑΓ.ΣΙΛΑ)",
+    "lineDescrEng": "ST. CHALANDRI - NEA PENTELI - CHALANDRI (TO PL.AG.SILA)",
+    "lineCode": 1427
+  },
+  "3648": {
+    "lineID": "451",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΑΠΟ ΣΤΑΣΗ ΠΛ.ΑΓ.ΣΙΛΑ)",
+    "lineDescrEng": "ST. CHALANDRI - NEA PENTELI -CHALANDRI (FROM PL.AG. SILA)",
+    "lineCode": 1429
+  },
+  "3649": {
+    "lineID": "461",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π.ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΑΠΟ ΣΤΡΑΤ/KO ΝΟΣ/MEIO)",
+    "lineDescrEng": "ST. CHALANDRI - P. PENTELI - CHALANDRI (FROM STRAT/KO NOS/MEIO)",
+    "lineCode": 1431
+  },
+  "3650": {
+    "lineID": "461",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Π.ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΕΩΣ ΣΤΡΑΤ/KO ΝΟΣ/MEIO)",
+    "lineDescrEng": "ST. CHALANDRI - P. PENTELI - CHALANDRI (TO STRAT/KO NOS/MEIO)",
+    "lineCode": 1432
+  },
+  "3687": {
+    "lineID": "115",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΚΙΤΣΙ (ΚΙΤΣΙ - ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "GLYFADA -VOULIAGMENI - KITSI (KITSI - AKADIMIA)",
+    "lineCode": 1444
+  },
+  "3688": {
+    "lineID": "856",
+    "lineDescr": "ΑΙΓΑΛΕΩ - ΥΜΗΤΤΟΣ - ΔΑΦΝΗ",
+    "lineDescrEng": "AIGALEO - YMITTOS - DAFNI",
+    "lineCode": 879
+  },
+  "3690": {
+    "lineID": "Α10",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (ΑΠΟ ΣΤΑΣΗ ΚΑΡΑΒΟΣ)",
+    "lineDescrEng": "STATHMOS LARISIS - ACHARNAI (FROM KARABOS STOP)",
+    "lineCode": 1446
+  },
+  "3691": {
+    "lineID": "Α10",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (ΕΩΣ ΣΤΑΣΗ ΚΑΡΑΒΟΣ ΜΕΣΩ ΑΓ.ΠΕΤΡΟΥ)",
+    "lineDescrEng": "STATHMOS LARISIS - ACHARNAI (TO KARABOS STOP VIA AG.PETROU)",
+    "lineCode": 1447
+  },
+  "3693": {
+    "lineID": "Β12",
+    "lineDescr": "ΣΤ. ΑΤΤΙΚΗ - ΑΝΩ ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ) (ΑΠΟ ΜΑΡΝΗ ΕΩΣ ΑΝΩ ΛΙΟΣΙΑ)",
+    "lineDescrEng": "ST. ATTIKI -  ANO LIOSIA (PANORAMA) (FROM MARNI TO ANO LIOSIA)",
+    "lineCode": 1448
+  },
+  "3711": {
+    "lineID": "405",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ (ΑΠΟ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "lineDescrEng": "ST. CHALANDRIOU - MELISSIA (FROM KLEIOUS)",
+    "lineCode": 1413
+  },
+  "3713": {
+    "lineID": "405",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ (ΕΩΣ ΣΤΑΣΗ ΚΛΕΙΟΥΣ)",
+    "lineDescrEng": "ST. CHALANDRIOU - MELISSIA (TO KLEIOUS)",
+    "lineCode": 1414
+  },
+  "3758": {
+    "lineID": "Β10",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (ΜΕΣΩ ΑΡΙΣΤΟΤΕΛΟΥΣ)",
+    "lineDescrEng": "STATHMOS LARISIS - ACHARNAI (VIA ARISTOTELOYS)",
+    "lineCode": 1021
+  },
+  "3766": {
+    "lineID": "20",
+    "lineDescr": "Ν. ΦΑΛΗΡΟ - ΚΑΣΤΕΛΛΑ - ΔΡΑΠΕΤΣΩΝΑ",
+    "lineDescrEng": "N. FALIRO - KASTELLA - DRAPETSONA",
+    "lineCode": 1083
+  },
+  "3794": {
+    "lineID": "703",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (ΜΕΣΩ ΘΗΒΩΝ)",
+    "lineDescrEng": "PEIRAIAS - AG. ANARGYROI - AG. ELEYTHERIOS (VIA THIVON)",
+    "lineCode": 1435
+  },
+  "3818": {
+    "lineID": "250",
+    "lineDescr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΣ (ΑΠΟ ΣΤΑΣΗ ΕΥΑΓΓΕΛΙΣΜΟΣ)",
+    "lineDescrEng": "PANEPISTIMIOUPOLI - ST. EVAGGELISMOS (FROM ST. EVAGGELISMOS",
+    "lineCode": 1469
+  },
+  "3820": {
+    "lineID": "911Α",
+    "lineDescr": "ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ - ΙΔΡ. ΤΥΦΛΩΝ -Π.Ε ΝΟΤΙΟΥ ΤΟΜΕΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "STATH. KALLITHEAS - IDR. TYFLON -P.E NOTIOY TOMEA",
+    "lineCode": 1471
+  },
+  "3849": {
+    "lineID": "805",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ (ΑΠΟ ΣΤΑΣΗ ΑΓ.ΣΩΤΗΡΑΣ ΕΩΣ ΝΕΟΚΤΙΣΤΑ)",
+    "lineDescrEng": "ASPROPYRGOS - NEOKTISTA (FROM AG.SOTHRAS TO NEOKTISTA)",
+    "lineCode": 1476
+  },
+  "3850": {
+    "lineID": "855",
+    "lineDescr": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ (ΑΠΟ ΑΣΠΡΟΠΥΡΓΟ ΕΩΣ ΛΟΦΟ ΚΥΡΙΛΛΟΥ)",
+    "lineDescrEng": "PSARI - ASPROPYRGOS - LOFOS KYRILLOY (ASPROPYRGOS TO LOFOS KYRILLOY)",
+    "lineCode": 1477
+  },
+  "3874": {
+    "lineID": "876",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ  ΕΛΕΥΣΙΝΑ ΕΩΣ ΣΤ.ΑΓ.ΜΑΡΙΝΑ)",
+    "lineDescrEng": "ELEYSINA - ST. AG. MARINA (FROM  ELEYSINA TO ST.AG.MARINA)",
+    "lineCode": 1483
+  },
+  "3876": {
+    "lineID": "752",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΑΠΟ ΣΤΑΣΗ ΣΤΡΟΦΗ) ",
+    "lineDescrEng": "ACHARNAI - AG. IOANNIS - AG. PETROS ",
+    "lineCode": 1484
+  },
+  "3895": {
+    "lineID": "154",
+    "lineDescr": "ΠΑΝ/ΜΑ ΒΟΥΛΑΣ - Α. ΓΛΥΦΑΔΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PAN/MA VOULAS - ANO GLYFADA - ST. ARGYROYPOLI",
+    "lineCode": 1488
+  },
+  "3897": {
+    "lineID": "171",
+    "lineDescr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "VARKIZA - ST. ARGYROUPOLI",
+    "lineCode": 1489
+  },
+  "3907": {
+    "lineID": "450",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. CHALANDRI - CHALANDRI - N. PENTELI",
+    "lineCode": 1059
+  },
+  "3908": {
+    "lineID": "451",
+    "lineDescr": "ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. CHALANDRI - NEA PENTELI - CHALANDRI",
+    "lineCode": 1060
+  },
+  "3909": {
+    "lineID": "530",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. KIFISIA - MELISSIA - N. PENTELI",
+    "lineCode": 999
+  },
+  "3910": {
+    "lineID": "530",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ",
+    "lineDescrEng": "ST. KIFISIA - MELISSIA - N. PENTELI",
+    "lineCode": 999
+  },
+  "3917": {
+    "lineID": "702",
+    "lineDescr": "ΤΟΠΙΚΗ ΚΑΜΑΤΕΡΟΥ (ΣΧΟΛΙΚΗ) (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "TOPIKI KAMATEROY",
+    "lineCode": 1022
+  },
+  "3920": {
+    "lineID": "319",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (3ο ΓΥΜΝΑΣΙΟ ΠΑΛΛΗΝΗΣ ΠΡΟΣ ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ)",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (3RD GYMNASIO)",
+    "lineCode": 1503
+  },
+  "3946": {
+    "lineID": "306",
+    "lineDescr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜ.ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ (ΕΩΣ ΣΤΑΣΗ ΤΕΡΜΑ-ΜΠΑΛΑΝΑ)",
+    "lineDescrEng": "ST.DOYK.PLAKENTIAS-DIM.GERAKA-BALANA GERAKA (TO TERMA-BALANA)",
+    "lineCode": 1411
+  },
+  "3955": {
+    "lineID": "123",
+    "lineDescr": "ΣΑΡΩΝΙΔΑ-ΑΝΑΒΥΣΣΟΣ-ΠΑΛΑΙΑ ΦΩΚΑΙΑ (ΑΠΟ ΣΤΑΣΗ ΚΟΙΝΟΤΗΤΑ ΠΑΛ. ΦΩΚΑΙΑΣ ΕΩΣ ΣΑΡΩΝΙΔΑ)",
+    "lineDescrEng": "SARONIDA-ANAVISSOS-P.FOKAIA (FROM KOINOTHTA PAL.FOKAIAS TO SARONIDA)",
+    "lineCode": 1516
+  },
+  "3967": {
+    "lineID": "051",
+    "lineDescr": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΟΜΟΝΟΙΑ (ΜΕΣΩ ΑΚΑΔ. ΠΛΑΤ.)(ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.YPER.LEOF.KIFISOU - OMONOIA (VIA AKAD. PLAT.)",
+    "lineCode": 1523
+  },
+  "3968": {
+    "lineID": "051",
+    "lineDescr": "ΣΤ. ΥΠΕΡ.ΛΕΩΦ.ΚΗΦΙΣΟΥ - ΟΜΟΝΟΙΑ (ΜΕΣΩ ΑΚΑΔ.ΠΛΑΤ) (ΑΠΟ ΕΘΝΙΚΟ ΘΕΑΤΡΟ ΕΩΣ ΣΤ. ΥΠΕΡ. ΛΕΩΦ.ΚΗΦΣΙΟΥ)",
+    "lineDescrEng": "ST.YPER.LEOF.KIFISOU - OMONOIA(ETHNIKO THEATRO - ST.YPER.LEOF.KIFISOU)",
+    "lineCode": 1524
+  },
+  "3974": {
+    "lineID": "308",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ (ΑΠΟ ΚΟΡΩΠΙ ΕΩΣ ΣΤΑΣΗ ΣΤΑΥΡΟΣ)",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - PAIANIA - KOROPI (FROM KOROPI TO STAVROS)",
+    "lineCode": 1525
+  },
+  "3984": {
+    "lineID": "307",
+    "lineDescr": "ΣΤ. Δ.ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΣΤ.ΠΡΟΑΣΤ. ΚΟΡΩΠΙ",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - GL. NERA - PROAST. KOROPIOY",
+    "lineCode": 1041
+  },
+  "4000": {
+    "lineID": "819",
+    "lineDescr": "ΠΕΡΑΜΑ - ΝΕΚΡ. ΣΧΙΣΤΟΥ",
+    "lineDescrEng": "PERAMA - NEKR. SCHISTOY",
+    "lineCode": 890
+  },
+  "4003": {
+    "lineID": "843",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΠΕΡΑΜΑ",
+    "lineDescrEng": "PEIRAIAS - PERAMA",
+    "lineCode": 969
+  },
+  "4015": {
+    "lineID": "171",
+    "lineDescr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΑΠΟ ΒΑΡΚΙΖΑ ΕΩΣ ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ)",
+    "lineDescrEng": "VARKIZA - ST. ARGYROUPOLI (FROM VARKIZA TO ST. ARGYROUPOLI)",
+    "lineCode": 1537
+  },
+  "4018": {
+    "lineID": "171",
+    "lineDescr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΑΠΟ ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ ΕΩΣ ΒΑΡΚΙΖΑ)",
+    "lineDescrEng": "VARKIZA - ST. ARGYROUPOLI (FROM ST. ARGYROUPOLI TO VARKIZA)",
+    "lineCode": 1538
+  },
+  "4019": {
+    "lineID": "122",
+    "lineDescr": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΣΑΡΩΝΙΔΑ",
+    "lineDescrEng": "ST. ARGYROUPOLI - SARONIDA",
+    "lineCode": 1539
+  },
+  "4020": {
+    "lineID": "122",
+    "lineDescr": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΣΑΡΩΝΙΔΑ",
+    "lineDescrEng": "ST. ARGYROUPOLI - SARONIDA",
+    "lineCode": 1539
+  },
+  "4023": {
+    "lineID": "819",
+    "lineDescr": "ΠΕΡΑΜΑ - ΝΕΚΡ. ΣΧΙΣΤΟΥ",
+    "lineDescrEng": "PERAMA - NEKR. SCHISTOY",
+    "lineCode": 890
+  },
+  "4026": {
+    "lineID": "843",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΠΕΡΑΜΑ",
+    "lineDescrEng": "PEIRAIAS - PERAMA",
+    "lineCode": 969
+  },
+  "4027": {
+    "lineID": "841",
+    "lineDescr": "ΠΕΡΑΜΑ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PERAMA - ST. NIKAIA",
+    "lineCode": 1396
+  },
+  "4028": {
+    "lineID": "842",
+    "lineDescr": "ΠΕΡΑΜΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PERAMA - ST. KORYDALLOS",
+    "lineCode": 1395
+  },
+  "4030": {
+    "lineID": "841",
+    "lineDescr": "ΠΕΡΑΜΑ - ΣΤ. ΝΙΚΑΙΑ (ΑΠΟ ΟΜΟΝΟΙΑ ΕΩΣ ΠΕΡΑΜΑ)",
+    "lineDescrEng": "PERAMA - ST. NIKAIA (OMONOIA TO PERAMA)",
+    "lineCode": 1440
+  },
+  "4031": {
+    "lineID": "842",
+    "lineDescr": "ΠΕΡΑΜΑ - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΟΜΟΝΟΙΑ ΕΩΣ ΠΕΡΑΜΑ)",
+    "lineDescrEng": "PERAMA - ST. KORYDALLOS (OMONOIA TO PERAMA)",
+    "lineCode": 1442
+  },
+  "4032": {
+    "lineID": "841",
+    "lineDescr": "ΠΕΡΑΜΑ - ΣΤ. ΝΙΚΑΙΑ (ΑΠΟ ΝΕΡΟ ΕΩΣ ΠΕΡΑΜΑ)",
+    "lineDescrEng": "PERAMA - ST. NIKAIA (NERO TO PERAMA)",
+    "lineCode": 1443
+  },
+  "4036": {
+    "lineID": "727",
+    "lineDescr": "ΜΕΣΟΝΥΧΙ - ΑΓ.ΚΩΝΣΤΑΝΤΙΝΟΣ-ΑΓ.ΠΑΡΑΣΚΕΥΗ (ΕΩΣ 6ο ΓΕΝ. ΛΥΚΕΙΟ ΑΧΑΡΝΩΝ - ΠΡΩΙ)",
+    "lineDescrEng": "MESONYXI - AG.KONSTANTINOS - AG.PARASKEYH (ΤΟ 6th GEN.LYKEIO ACHARNAI)",
+    "lineCode": 1378
+  },
+  "4044": {
+    "lineID": "19Β",
+    "lineDescr": "ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΣΙΔΕΡΑ) (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "MOYSEIO - CHALANDRI (SIDERA)",
+    "lineCode": 1381
+  },
+  "4047": {
+    "lineID": "124",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΑΓΙΑ ΤΡΙΑΔΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "GLYFADA - AGIA TRIADA - ST. ARGYROUPOLIS ",
+    "lineCode": 1486
+  },
+  "4048": {
+    "lineID": "124",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΑΓΙΑ ΤΡΙΑΔΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "GLYFADA - AGIA TRIADA - ST. ARGYROUPOLIS ",
+    "lineCode": 1486
+  },
+  "4049": {
+    "lineID": "164",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ",
+    "lineDescrEng": "ST. AGIOS DIMITRIOS - K. IL/POLI - ARG/POLI - TERPSITHEA",
+    "lineCode": 924
+  },
+  "4050": {
+    "lineID": "164",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ",
+    "lineDescrEng": "ST. AGIOS DIMITRIOS - K. IL/POLI - ARG/POLI - TERPSITHEA",
+    "lineCode": 924
+  },
+  "4142": {
+    "lineID": "306",
+    "lineDescr": "ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜ.ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.DOYK.PLAKENTIAS-DIM.GERAKA-BALANA GERAKA",
+    "lineCode": 1042
+  },
+  "4159": {
+    "lineID": "653",
+    "lineDescr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PSYCHIKO - PANORMOY Β ",
+    "lineCode": 1007
+  },
+  "4167": {
+    "lineID": "411",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ (ΑΠΟ ΧΑΛΑΝΔΡΙ)",
+    "lineDescrEng": "ST. DOUKISSIS PLAKENTIAS - SISMANOGLIO - CHALANDRI (FROM CHALANDRI)",
+    "lineCode": 1567
+  },
+  "4178": {
+    "lineID": "608",
+    "lineDescr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ ( ΕΩΣ ΣΤΑΣΗ ΧΑΤΖΗΔΑΚΗ)",
+    "lineDescrEng": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY (TO XATZIDAKI)",
+    "lineCode": 1568
+  },
+  "4186": {
+    "lineID": "602",
+    "lineDescr": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤΑΘ. ΠΑΝΟΡΜΟΥ (ΑΠΟ ΣΤΑΣΗ ΣΧΟΛΕΙΟ)",
+    "lineDescrEng": "N. IONIA - KALOGREZA - ST. PANORMOY (FROM KALOGREZA)",
+    "lineCode": 1571
+  },
+  "4187": {
+    "lineID": "602",
+    "lineDescr": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤΑΘ. ΠΑΝΟΡΜΟΥ (ΕΩΣ 13η ΚΑΛΟΓΡΕΖΑΣ)",
+    "lineDescrEng": "N. IONIA - KALOGREZA - ST. PANORMOY (TO KALOGREZA)",
+    "lineCode": 1572
+  },
+  "4196": {
+    "lineID": "536",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΔΙΟΝΥΣΟΣ",
+    "lineDescrEng": "ZIRINEIO - DIONYSOS",
+    "lineCode": 916
+  },
+  "4197": {
+    "lineID": "536",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΔΙΟΝΥΣΟΣ",
+    "lineDescrEng": "ZIRINEIO - DIONYSOS",
+    "lineCode": 916
+  },
+  "4198": {
+    "lineID": "021",
+    "lineDescr": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ - ΓΚΥΖH (ΑΠΟ ΓΚΥΖΗ)",
+    "lineDescrEng": "PLATEIA KANIGKOS - GKIZI (FROM GKIZI TO PLATEIA KANIGKOS)",
+    "lineCode": 1574
+  },
+  "4199": {
+    "lineID": "021",
+    "lineDescr": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ - ΓΚΥΖH (ΕΩΣ ΓΚΥΖΗ)",
+    "lineDescrEng": "PLATEIA KANIGKOS - GKIZI (FROM KANIGKOS TO GKIZI)",
+    "lineCode": 1575
+  },
+  "4209": {
+    "lineID": "411",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ (ΕΩΣ ΧΑΛΑΝΔΡΙ)",
+    "lineDescrEng": "ST. DOUKISSIS PLAKENTIAS - SISMANOGLIO - CHALANDRI (TO CHALANDRI)",
+    "lineCode": 1576
+  },
+  "4213": {
+    "lineID": "022",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - Ν. ΚΥΨΕΛΗ (ΑΠΟ ΚΥΨΕΛΗ)",
+    "lineDescrEng": "AKADIMIA - NEA KYPSELI (FROM KYPSELI)",
+    "lineCode": 1578
+  },
+  "4214": {
+    "lineID": "022",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - Ν. ΚΥΨΕΛΗ (ΕΩΣ ΚΥΨΕΛΗ)",
+    "lineDescrEng": "AKADIMIA - NEA KYPSELI (TO KYPSELI)",
+    "lineCode": 1579
+  },
+  "4225": {
+    "lineID": "128",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ ΛΕΥΚΩΣΙΑΣ ΕΩΣ ΓΛΥΦΑΔΑ)",
+    "lineDescrEng": "GLYFADA - TERPSITHEA (FROM LEYKOSIAS TO GLYFADA)",
+    "lineCode": 1582
+  },
+  "4226": {
+    "lineID": "128",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΓΛΥΦΑΔΑ ΕΩΣ ΣΤΑΣΗ ΛΕΥΚΩΣΙΑΣ )",
+    "lineDescrEng": "GLYFADA - TERPSITHEA (FROM GLYFADA TO LEYKOSIAS)",
+    "lineCode": 1583
+  },
+  "4227": {
+    "lineID": "131",
+    "lineDescr": "ΑΜΑΞ. ΑΓ. ΔΗΜΗΤΡΙΟΥ - ΣΤ. ΔΑΦΝΗ (ΕΩΣ ΣΤ.ΔΑΦΝΗ)",
+    "lineDescrEng": "AMAX. AG. DIMITRIOU - ST. DAFNI (TO DAFNI)",
+    "lineCode": 1584
+  },
+  "4234": {
+    "lineID": "861",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ (ΟΙΚΙΣΜΟΣ ΤΙΤΑΝ)",
+    "lineDescrEng": "ELEYSINA - MANDRA (OIKISMOS TITAN)",
+    "lineCode": 820
+  },
+  "4240": {
+    "lineID": "504",
+    "lineDescr": "ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "THRAKOMAKEDONES  - KIFISIA ",
+    "lineCode": 1586
+  },
+  "4242": {
+    "lineID": "15",
+    "lineDescr": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ (ΑΠΟ ΟΜΟΝΟΙΑ ΕΩΣ ΠΕΤΡΑΛΩΝΑ)",
+    "lineDescrEng": "PETRALONA - DIKASTIRIA - EL. VENIZELOY (FROM OMONOIA TO PETRALONA)",
+    "lineCode": 1588
+  },
+  "4244": {
+    "lineID": "164",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ ΔΑΡΖΕΝΤΑ)",
+    "lineDescrEng": "ST. AGIOS DIMITRIOS - K. IL/POLI - ARG/POLI-TERPSITHEA (FROM DARZENTA)",
+    "lineCode": 1589
+  },
+  "4246": {
+    "lineID": "164",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ ΠΛ.ΑΝΕΞΑΡΤΗΣΙΑΣ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "ST.AGIOS DIMITRIOS-K.IL/POLI-ARG/POLI-TERPSITHEA (FROM PL.ANEXARTHSIA)",
+    "lineCode": 1590
+  },
+  "4249": {
+    "lineID": "164",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ (ΤΕΡΨΙΘΕΑ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "ST.AGIOS DIMITRIOS-K.IL/POLI-ARG/POLI-TERPSITHEA (TO AKADHMIA)",
+    "lineCode": 1591
+  },
+  "4250": {
+    "lineID": "906",
+    "lineDescr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΚΑΛΛΙΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PL. KARAΪSKAKI - KALLIPOLI",
+    "lineCode": 882
+  },
+  "4252": {
+    "lineID": "845",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (ΜΕΣΩ ΘΗΒΩΝ)",
+    "lineDescrEng": "PEIRAIAS - ELEYSINA (VIA THIVON)",
+    "lineCode": 872
+  },
+  "4254": {
+    "lineID": "871",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (ΜΕΣΩ Λ. ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)",
+    "lineDescrEng": "PEIRAIAS - ELEYSINA (VIA L. ETHN. ANTISTASEOS)",
+    "lineCode": 854
+  },
+  "4255": {
+    "lineID": "876",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ELEYSINA - ST. AG. MARINA ",
+    "lineCode": 991
+  },
+  "4257": {
+    "lineID": "855",
+    "lineDescr": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ",
+    "lineDescrEng": "PSARI - ASPROPYRGOS - LOFOS KYRILLOY",
+    "lineCode": 827
+  },
+  "4258": {
+    "lineID": "855",
+    "lineDescr": "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ",
+    "lineDescrEng": "PSARI - ASPROPYRGOS - LOFOS KYRILLOY",
+    "lineCode": 827
+  },
+  "4264": {
+    "lineID": "204",
+    "lineDescr": "ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΑΠΟ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "STR. SAKETA - AKADIMIA (FROM AKADIMIA)",
+    "lineCode": 1593
+  },
+  "4265": {
+    "lineID": "204Β",
+    "lineDescr": "ΕΚΕΜΣ - ΑΚΑΔΗΜΙΑ (ΑΠΟ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "EKEMS - AKADIMIA (FROM AKADIMIA)",
+    "lineCode": 1594
+  },
+  "4267": {
+    "lineID": "876",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΠΛ.ΚΟΥΜΟΥΝΔΟΥΡΟΥ ΕΩΣ ΕΛΕΥΣΙΝΑ)",
+    "lineDescrEng": "ELEYSINA - ST. AG.MARINA (FROM PL.KOUMOUNDOUROU TO ELEYSINA)",
+    "lineCode": 1479
+  },
+  "4268": {
+    "lineID": "876",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΣΤ.ΑΓ.ΜΑΡΙΝΑ ΕΩΣ ΕΛΕΥΣΙΝΑ)",
+    "lineDescrEng": "ELEYSINA - ST. AG. MARINA (FROM ST.AG.MARINA TO ELEYSINA)",
+    "lineCode": 1495
+  },
+  "4273": {
+    "lineID": "503",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΒΑΡΥΜΠΟΜΠΗ",
+    "lineDescrEng": "ZIRINEIO - VARYMPOMPI",
+    "lineCode": 913
+  },
+  "4280": {
+    "lineID": "201",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ (ΑΠΟ ΑΡΓΥΡΟΥΠΟΛΗ ΣΤΑΣΗ ΜΙΚΡΑΣ ΑΣΙΑΣ)",
+    "lineDescrEng": "ST. AG. DIMITRIOS - ARGYROYPOLI (FROM ARGYROYPOLI -  MIKRAS ASIAS)",
+    "lineCode": 1592
+  },
+  "4281": {
+    "lineID": "201",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ (ΕΩΣ ΑΡΓΥΡΟΥΠΟΛΗ ΣΤΑΣΗ ΜΙΚΡΑΣ ΑΣΙΑΣ)",
+    "lineDescrEng": "ST. AG. DIMITRIOS - ARGYROYPOLI (TO ARGYROYPOLI -  MIKRAS ASIAS)",
+    "lineCode": 1598
+  },
+  "4284": {
+    "lineID": "300",
+    "lineDescr": "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΤΖΑΝΕΙΟ (ΑΠΟ ΤΖΑΝΕΙΟ)",
+    "lineDescrEng": "PL. KARAΪSKAKI - TZANEIO (FROM TZANEIO)",
+    "lineCode": 1599
+  },
+  "4287": {
+    "lineID": "914",
+    "lineDescr": "ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "OMONOIA - LACHANAGORA - PAL. KOKKINIA",
+    "lineCode": 883
+  },
+  "4290": {
+    "lineID": "416",
+    "lineDescr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΑΠΟ ΠΛ.ΧΟΛΑΡΓΟΥ)",
+    "lineDescrEng": "ST. ETHN.AMYNAS - CHOLARGOS (FROM PL.CHOLARGOU)",
+    "lineCode": 1602
+  },
+  "4291": {
+    "lineID": "416",
+    "lineDescr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΑΠΟ ΠΛ.ΧΟΛΑΡΓΟΥ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "ST. ETHN.AMYNAS - CHOLARGOS (FROM PL.CHOLARGOU TO AKADHMIA)",
+    "lineCode": 1603
+  },
+  "4292": {
+    "lineID": "416",
+    "lineDescr": "ΣΤ.ΕΘΝ.ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΕΩΣ ΠΛ.ΧΟΛΑΡΓΟΥ)",
+    "lineDescrEng": "ST. ETHN.AMYNAS - CHOLARGOS (TO PL.CHOLARGOU)",
+    "lineCode": 1604
+  },
+  "4293": {
+    "lineID": "25",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ - ΚΑΜΑΤΕΡΟ (ΑΠΟ ΣΤΑΣΗ ΠΑΛ.ΑΦΕΤΗΡΙΑ)",
+    "lineDescrEng": "ST.AG.ANTONIOS - ILION - KAMATERO (FROM PAL.AFETHRIA)",
+    "lineCode": 1605
+  },
+  "4296": {
+    "lineID": "837",
+    "lineDescr": "ΑΓΙΑ ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ (ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "lineDescrEng": "AGIA VARVARA - ST. AG.VARVARA - ST.AG.MARINA (TO OMONOIA)",
+    "lineCode": 1611
+  },
+  "4298": {
+    "lineID": "642",
+    "lineDescr": "ΗΡΑΚΛΕΙΟ- ΑΓ. ΝΕΚΤΑΡΙΟΣ - ΠΕΥΚΗ (ΑΠΟ 8η ΠΕΥΚΗΣ)",
+    "lineDescrEng": "IRAKLEIO - AG. NEKTARIOS - PEYKI (FROM 8th PEYKHS)",
+    "lineCode": 1608
+  },
+  "4299": {
+    "lineID": "910",
+    "lineDescr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΑΠΟ ΣΤΑΣΗ ΠΕΙΣΙΣΤΡΑΤΟΥ)",
+    "lineDescrEng": "ST. SYGGROY FIX - TZITZIFIES (FROM PEISISTRATOY)",
+    "lineCode": 1612
+  },
+  "4300": {
+    "lineID": "653",
+    "lineDescr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΕΩΣ ΣΤΑΣΗ ΣΧΟΛΕΙΟ)",
+    "lineDescrEng": "PSYCHIKO - PANORMOY Β (ΤΟ SXOLEIO)",
+    "lineCode": 1613
+  },
+  "4301": {
+    "lineID": "910",
+    "lineDescr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΕΩΣ ΣΤΑΣΗ ΠΕΙΣΙΣΤΡΑΤΟΥ)",
+    "lineDescrEng": "ST. SYGGROY FIX - TZITZIFIES (ΤΟ PEISISTRATOY)",
+    "lineCode": 1614
+  },
+  "4305": {
+    "lineID": "730",
+    "lineDescr": "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ (ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "lineDescrEng": "LOFOS AKSIOMATIKON - ST. AGIOS ANTONIOS - ZOODOCHOS PIGI (TO OMONOIA)",
+    "lineCode": 1615
+  },
+  "4307": {
+    "lineID": "806",
+    "lineDescr": "ΣΧΙΣΤΟ - ΚΑΡΑΒΑΣ  - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΠΛ.ΕΛΕΥΘΕΡΙΑΣ ΕΩΣ ΟΜΟΝΟΙΑ )",
+    "lineDescrEng": "SXISTO - KARABAS - ST. KORYDALLOS (FROM PL.ELEYTHERIAS TO OMONOIA)",
+    "lineCode": 1616
+  },
+  "4314": {
+    "lineID": "809",
+    "lineDescr": "ΣΧΙΣΤO - ΣΤ.ΝΙΚΑΙΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΣΤΑΣΗ ΗΠΕΙΡΟΥ ΕΩΣ ΓΟΥΝΑΡΗ)",
+    "lineDescrEng": "SXISTO - ST.METRO NIKAIA - ST.KORYDALLOS (FROM HPEIROY TO GOYNARH)",
+    "lineCode": 1620
+  },
+  "4328": {
+    "lineID": "725",
+    "lineDescr": "ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ (ΠΛ.ΑΡΙΣΤΟΤΕΛΟΥΣ)  (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI(MESONYCHI)-THRAKOMAKEDONES (PL.ARISTOTELOUS)",
+    "lineCode": 1133
+  },
+  "4329": {
+    "lineID": "747",
+    "lineDescr": "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΑΠΟ ΣΤ.ΑΝΘΟΥΠΟΛΗ)",
+    "lineDescrEng": "PETROYPOLI - PANORAMA - ST. ANTHOYPOLI (FROM ST.ANTHOUPOLI)",
+    "lineCode": 1621
+  },
+  "4334": {
+    "lineID": "876",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ (ΑΠΟ ΜΑΝΔΡΑ - ΕΛΕΥΣΙΝΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ - ΕΛΕΥΣΙΝΑ)",
+    "lineDescrEng": "ELEYSINA - ST.AG.MARINA (FROM MANDRA-ELEYSINA-ST.AG.MARINA-ELEYSINA)",
+    "lineCode": 1481
+  },
+  "4341": {
+    "lineID": "818",
+    "lineDescr": "ΛΙΜ. ΠΕΡΑΜΑΤΟΣ - ΑΝΩ ΠΕΡΑΜΑ (ΑΠΟ ΣΤΑΣΗ ΣΧΟΛΕΙΟ)",
+    "lineDescrEng": "LIM. PERAMATOS - ANO PERAMA (FROM SXOLEIO)",
+    "lineCode": 1628
+  },
+  "4344": {
+    "lineID": "824",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Α (ΑΠΟ ΠΛ. ΚΑΡΑΪΣΚΑΚΗ)",
+    "lineDescrEng": "NEAPOLI - AG. ANTONIOS - PEIRAIAS A (FROM PL. KARAISKAKH)",
+    "lineCode": 1631
+  },
+  "4345": {
+    "lineID": "826",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΑΠΟ ΣΤΑΣΗ 1η ΑΓ. ΜΗΝΑ)",
+    "lineDescrEng": "PEIRAIAS - AG. MINAS (FROM 1st AG. MINA)",
+    "lineCode": 1632
+  },
+  "4346": {
+    "lineID": "826",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΕΩΣ ΣΤΑΣΗ 3η ΑΓ. ΜΗΝΑ)",
+    "lineDescrEng": "PEIRAIAS - AG. MINAS (TO 3rd AG. MINA)",
+    "lineCode": 1633
+  },
+  "4356": {
+    "lineID": "914",
+    "lineDescr": "ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΕΩΣ ΣΤΑΣΗ ΜΕΤΑΜΟΡΦΩΣΕΩΣ)",
+    "lineDescrEng": "OMONOIA - LACHANAGORA - PAL. KOKKINIA (TO METAMORFOSEOS) ",
+    "lineCode": 1634
+  },
+  "4358": {
+    "lineID": "725",
+    "lineDescr": "ΑΧΑΡΝΑΙ (ΜΕΣΟΝΥΧΙ) - ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ (ΑΠΟ ΠΛ.ΑΡΙΣΤΟΤΕΛΟΥΣ ΕΩΣ ΜΕΣΟΝΥΧΙ)",
+    "lineDescrEng": "ACHARNAI(MESONYCHI)-THRAKOMAKEDONES (FROM PL.ARISTOTELOUS TO MESONYCHI",
+    "lineCode": 1436
+  },
+  "4359": {
+    "lineID": "915",
+    "lineDescr": "ΛΟΦΟΣ ΒΩΚΟΥ - ΠΡ. ΗΛΙΑΣ (ΕΩΣ ΣΤΑΣΗ ΙΕΡΟΥ ΛΟΧΟΥ)",
+    "lineDescrEng": "LOFOS VOKOY - PR. ILIAS (TO IEROY LOXOY)",
+    "lineCode": 1635
+  },
+  "4361": {
+    "lineID": "732",
+    "lineDescr": "ΙΛΙΟΝ - ΑΓ. ΦΑΝΟΥΡΙΟΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ILION - AG. FANOYRIOS - AKADHMIA",
+    "lineCode": 1546
+  },
+  "4362": {
+    "lineID": "732",
+    "lineDescr": "ΙΛΙΟΝ - ΑΓ. ΦΑΝΟΥΡΙΟΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ILION - AG. FANOYRIOS - AKADHMIA",
+    "lineCode": 1546
+  },
+  "4364": {
+    "lineID": "610",
+    "lineDescr": "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΑΠΟ ΣΤΑΣΗ ΥΓΕΙΟΝΟΜΙΚΟ)",
+    "lineDescrEng": "FILOTHEI - AMPELOKIPOI (FROM YGEIONOMIKO)",
+    "lineCode": 1638
+  },
+  "4365": {
+    "lineID": "610",
+    "lineDescr": "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΕΩΣ ΣΤΑΣΗ ΥΓΕΙΟΝΟΜΙΚΟ)",
+    "lineDescrEng": "FILOTHEI - AMPELOKIPOI (TO YGEIONOMIKO)",
+    "lineCode": 1639
+  },
+  "4367": {
+    "lineID": "828",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΘΗΒΩΝ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - THIVON - ST.NIKAIA",
+    "lineCode": 1400
+  },
+  "4368": {
+    "lineID": "651",
+    "lineDescr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Α (ΑΠΟ ΣΤ. ΠΑΝΟΡΜΟΥ)",
+    "lineDescrEng": "PSYCHIKO - PANORMOY A (FROM ST. PANORMOY)",
+    "lineCode": 1640
+  },
+  "4369": {
+    "lineID": "909",
+    "lineDescr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ (ΑΠΟ ΣΤΑΣΗ ΠΑΛ. ΤΕΡΜΑ - ΑΓ. ΣΟΦΙΑ)",
+    "lineDescrEng": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑ (FROM PAL. TERMA - AG. SOFIA)",
+    "lineCode": 1641
+  },
+  "4370": {
+    "lineID": "700",
+    "lineDescr": "ΠΕΤΡΟΥΠΟΛΗ (ΑΓ. ΤΡΙΑΔΑ)-ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PETROUPOLI (AG. TRIADA)-ST. ANTHOUPOLI",
+    "lineCode": 1244
+  },
+  "4372": {
+    "lineID": "909",
+    "lineDescr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ (ΔΕ-ΠΕ 20:00-23:59  ΠΑ-ΚΥ 18:00-23:59)",
+    "lineDescrEng": "AG. VASILEIOS - AG. SOFIA - KRAT. NIKAIAS (MO-TH 20:00-23:59, FR-SU 18",
+    "lineCode": 1642
+  },
+  "4373": {
+    "lineID": "550",
+    "lineDescr": "Π. ΦΑΛΗΡΟ - ΚΗΦΙΣΙΑ",
+    "lineDescrEng": "P. FALIRO - KIFISIA",
+    "lineCode": 959
+  },
+  "4374": {
+    "lineID": "890",
+    "lineDescr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΝΑΥΠΗΓΕΙΑ ΣΚΑΡΑΜΑΓΚΑ",
+    "lineDescrEng": "ST. AG. MARINA - NAFPIGIA SKARAMAGKA",
+    "lineCode": 1262
+  },
+  "4376": {
+    "lineID": "890",
+    "lineDescr": "ΣΤ. ΑΓ. ΜΑΡΙΝΑ - ΝΑΥΠΗΓΕΙΑ ΣΚΑΡΑΜΑΓΚΑ",
+    "lineDescrEng": "ST. AG. MARINA - NAFPIGIA SKARAMAGKA",
+    "lineCode": 1262
+  },
+  "4386": {
+    "lineID": "914",
+    "lineDescr": "ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "OMONOIA - LACHANAGORA - PAL. KOKKINIA",
+    "lineCode": 883
+  },
+  "4387": {
+    "lineID": "859",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ-ΔΕΞΑΜΕΝΕΣ-ΝΕΟΣ ΜΩΛΟΣ ΔΡΑΠΕΤΣΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - DEXAMENES - N.MOLOS DRAPETSONAS",
+    "lineCode": 1013
+  },
+  "4395": {
+    "lineID": "852",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI - ST. METRO AIGALEO ",
+    "lineCode": 875
+  },
+  "4401": {
+    "lineID": "728",
+    "lineDescr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΑΠΟ ΣΤΑΣΗ ΣΤΡΟΦΗ ΕΩΣ ΑΧΑΡΝΕΣ)",
+    "lineDescrEng": "ACHARNAI - PLATONAS (FROM STROFH TO ACHARNAI)",
+    "lineCode": 1505
+  },
+  "4402": {
+    "lineID": "728",
+    "lineDescr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΑΠΟ ΑΓ.Ι.ΡΩΣΟ ΕΩΣ ΚΑΡΑΒΟ)",
+    "lineDescrEng": "ACHARNAI - PLATONAS (FROM AG.I.ROSO TO ACHARNAI)",
+    "lineCode": 1510
+  },
+  "4403": {
+    "lineID": "728",
+    "lineDescr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΑΠΟ ΑΓ.Ι.ΡΩΣΟ ΕΩΣ ΣΤ.ΛΑΡΙΣΗΣ)",
+    "lineDescrEng": "ACHARNAI - PLATONAS (FROM AG.I.ROSO TO ST.LARISIS)",
+    "lineCode": 1438
+  },
+  "4405": {
+    "lineID": "892",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΙΛΙΟΝ",
+    "lineDescrEng": "AG. VARVARA - CHAIDARI - AG. ANARGYROI-ILION",
+    "lineCode": 844
+  },
+  "4407": {
+    "lineID": "892",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΙΛΙΟΝ",
+    "lineDescrEng": "AG. VARVARA - CHAIDARI - AG. ANARGYROI-ILION",
+    "lineCode": 844
+  },
+  "4409": {
+    "lineID": "728",
+    "lineDescr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - PLATONAS ",
+    "lineCode": 905
+  },
+  "4414": {
+    "lineID": "749",
+    "lineDescr": "ΟΙΚΙΣΜΟΣ ΓΕΝΝΗΜΑΤΑ-ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "OIKISMOS GENNIMATA-ST. PROASTIAKOU",
+    "lineCode": 1259
+  },
+  "4415": {
+    "lineID": "749",
+    "lineDescr": "ΟΙΚΙΣΜΟΣ ΓΕΝΝΗΜΑΤΑ-ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "OIKISMOS GENNIMATA-ST. PROASTIAKOU",
+    "lineCode": 1259
+  },
+  "4423": {
+    "lineID": "915",
+    "lineDescr": "ΛΟΦΟΣ ΒΩΚΟΥ - ΠΡ. ΗΛΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "LOFOS VOKOY - PR. ILIAS ",
+    "lineCode": 1018
+  },
+  "4462": {
+    "lineID": "314",
+    "lineDescr": "Β* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - Ν. ΒΟΥΤΖΑΣ (2ο Γυμνάσιο)",
+    "lineDescrEng": "B* ST. DOUK. PLAKENTIAS - PALLINI - N. BOUTZAS (2nd GYMNASIO)",
+    "lineCode": 1646
+  },
+  "4463": {
+    "lineID": "314",
+    "lineDescr": "Β* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - Ν. ΒΟΥΤΖΑΣ (2ο Γυμνάσιο)",
+    "lineDescrEng": "B* ST. DOUK. PLAKENTIAS - PALLINI - N. BOUTZAS (2nd GYMNASIO)",
+    "lineCode": 1646
+  },
+  "4470": {
+    "lineID": "503",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΒΑΡΥΜΠΟΜΠΗ",
+    "lineDescrEng": "ZIRINEIO - VARYMPOMPI",
+    "lineCode": 913
+  },
+  "4475": {
+    "lineID": "830",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AG. VARVARA -ST. KORYDALLOS",
+    "lineCode": 1648
+  },
+  "4476": {
+    "lineID": "846",
+    "lineDescr": "ΝΕΑΠΟΛΗ -  ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI -  ST. NIKAIA",
+    "lineCode": 1649
+  },
+  "4477": {
+    "lineID": "846",
+    "lineDescr": "ΝΕΑΠΟΛΗ -  ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI -  ST. NIKAIA",
+    "lineCode": 1649
+  },
+  "4479": {
+    "lineID": "848",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΧΑΡΑΥΓΗ",
+    "lineDescrEng": "NEAPOLI - CHARAYGI",
+    "lineCode": 1651
+  },
+  "4480": {
+    "lineID": "848",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΧΑΡΑΥΓΗ",
+    "lineDescrEng": "NEAPOLI - CHARAYGI",
+    "lineCode": 1651
+  },
+  "4481": {
+    "lineID": "814",
+    "lineDescr": "ΣΧΙΣΤΟ ΚΑΡΑΒΑΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "SCHISTO KARAVAS - PEIRAIAS",
+    "lineCode": 1652
+  },
+  "4482": {
+    "lineID": "814",
+    "lineDescr": "ΣΧΙΣΤΟ ΚΑΡΑΒΑΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "SCHISTO KARAVAS - PEIRAIAS",
+    "lineCode": 1652
+  },
+  "4483": {
+    "lineID": "909",
+    "lineDescr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ",
+    "lineDescrEng": "AG. VASILEIOS - AG. SOFIA - KRAT. NIKAIAS",
+    "lineCode": 1653
+  },
+  "4484": {
+    "lineID": "909",
+    "lineDescr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ",
+    "lineDescrEng": "AG. VASILEIOS - AG. SOFIA - KRAT. NIKAIAS",
+    "lineCode": 1653
+  },
+  "4485": {
+    "lineID": "909",
+    "lineDescr": "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ (ΔΕ-ΠΕ 20:00-23:59  ΠΑ-ΚΥ 18:00-23:59)",
+    "lineDescrEng": "AG. VASILEIOS - AG. SOFIA - KRAT. NIKAIAS (MO-TH 20:00-23:59, FR-SU 18",
+    "lineCode": 1642
+  },
+  "4489": {
+    "lineID": "535",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΕΥΞΕΙΝΟΣ ΠΟΝΤΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ZIRINEIO - EYXEINOS PONTOS ",
+    "lineCode": 917
+  },
+  "4508": {
+    "lineID": "421",
+    "lineDescr": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "lineDescrEng": "AGIOI ANARGYROI - AGIA PARASKEVI",
+    "lineCode": 967
+  },
+  "4512": {
+    "lineID": "755",
+    "lineDescr": "ΑΧΑΡΝΑΙ-ΚΟΚΚΙΝΟΣ ΜΥΛΟΣ-ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AXARNAI-KOKKINOS MYLOS-ST.KATO PATHSIA",
+    "lineCode": 1144
+  },
+  "4513": {
+    "lineID": "755",
+    "lineDescr": "ΑΧΑΡΝΑΙ-ΚΟΚΚΙΝΟΣ ΜΥΛΟΣ-ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AXARNAI-KOKKINOS MYLOS-ST.KATO PATHSIA",
+    "lineCode": 1144
+  },
+  "4514": {
+    "lineID": "755Β",
+    "lineDescr": "ΑΧΑΡΝΑΙ-ΚΟΚΚΙΝΟΣ ΜΥΛΟΣ-ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ ΜΕΣΩ ΧΑΡΑΥΓΗΣ)",
+    "lineDescrEng": "AXARNAI-KOKKINOS MYLOS-ST.KATO PATHSIA (VIA HARAVGI)",
+    "lineCode": 1550
+  },
+  "4515": {
+    "lineID": "755Β",
+    "lineDescr": "ΑΧΑΡΝΑΙ-ΚΟΚΚΙΝΟΣ ΜΥΛΟΣ-ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ ΜΕΣΩ ΧΑΡΑΥΓΗΣ)",
+    "lineDescrEng": "AXARNAI-KOKKINOS MYLOS-ST.KATO PATHSIA (VIA HARAVGI)",
+    "lineCode": 1550
+  },
+  "4518": {
+    "lineID": "830",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΑΠΟ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "lineDescrEng": "AG.VARVARA - ST.KORYDALLOS (FROM GOYNARH-PEIRAIAS)",
+    "lineCode": 1655
+  },
+  "4519": {
+    "lineID": "830",
+    "lineDescr": "ΑΓ.ΒΑΡΒΑΡΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΕΩΣ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "lineDescrEng": "AG.VARVARA - ST.KORYDALLOS (TO GOYNARH-PEIRAIAS)",
+    "lineCode": 1656
+  },
+  "4520": {
+    "lineID": "846",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΣΤ.ΝΙΚΑΙΑ (ΕΩΣ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "lineDescrEng": "NEAPOLI -  ST.NIKAIA (TO GOYNARH-PEIRAIAS)",
+    "lineCode": 1657
+  },
+  "4526": {
+    "lineID": "837",
+    "lineDescr": "ΑΓΙΑ ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΒΑΡΒΑΡΑ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AGIA VARVARA - ST. AG.VARVARA - ST.AG.MARINA",
+    "lineCode": 1404
+  },
+  "4527": {
+    "lineID": "831",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ",
+    "lineDescrEng": "PEIRAIAS - AIGALEO",
+    "lineCode": 874
+  },
+  "4528": {
+    "lineID": "831",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ",
+    "lineDescrEng": "PEIRAIAS - AIGALEO",
+    "lineCode": 874
+  },
+  "4530": {
+    "lineID": "728",
+    "lineDescr": "ΑΧΑΡΝΑΙ- ΑΓ.ΠΕΤΡΟΣ- ΑΓ.ΙΩΑΝΝΗΣ-ΠΛΑΤΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - PLATONAS ",
+    "lineCode": 905
+  },
+  "4537": {
+    "lineID": "537",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ",
+    "lineDescrEng": "ACHARNAI - VARYMPOMPI",
+    "lineCode": 904
+  },
+  "4538": {
+    "lineID": "035",
+    "lineDescr": "ΑΝΩ ΚΥΨΕΛΗ - ΠΕΤΡΑΛΩΝΑ - ΤΑΥΡΟΣ",
+    "lineDescrEng": "ANO KYPSELI - PETRALONA - TAVROS",
+    "lineCode": 816
+  },
+  "4540": {
+    "lineID": "15",
+    "lineDescr": "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+    "lineDescrEng": "PETRALONA - DIKASTIRIA - EL. VENIZELOY",
+    "lineCode": 1074
+  },
+  "4544": {
+    "lineID": "863",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΘΡΙΑΣΙΟ ΝΟΣ. - ΜΑΝΔΡΑ ",
+    "lineDescrEng": "ELEYSINA - THRIASIO NOS. - MANDRA",
+    "lineCode": 810
+  },
+  "4545": {
+    "lineID": "863",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΘΡΙΑΣΙΟ ΝΟΣ. - ΜΑΝΔΡΑ ",
+    "lineDescrEng": "ELEYSINA - THRIASIO NOS. - MANDRA",
+    "lineCode": 810
+  },
+  "4550": {
+    "lineID": "324",
+    "lineDescr": "ΑΝΘΟΥΣΑ-ΠΑΛΛΗΝΗ-ΚΑΝΤΖΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANTHOUSA-PALLINI-KANTZA",
+    "lineCode": 1129
+  },
+  "4551": {
+    "lineID": "750",
+    "lineDescr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ",
+    "lineDescrEng": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "lineCode": 886
+  },
+  "4552": {
+    "lineID": "750",
+    "lineDescr": "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ",
+    "lineDescrEng": "ATTIKO NOSOKOMEIO - ST. METRO AIGALEO - NIKAIA",
+    "lineCode": 886
+  },
+  "4559": {
+    "lineID": "537",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ",
+    "lineDescrEng": "ACHARNAI - VARYMPOMPI",
+    "lineCode": 904
+  },
+  "4565": {
+    "lineID": "861",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ (ΟΙΚΙΣΜΟΣ ΤΙΤΑΝ)",
+    "lineDescrEng": "ELEYSINA - MANDRA (OIKISMOS TITAN)",
+    "lineCode": 820
+  },
+  "4570": {
+    "lineID": "052",
+    "lineDescr": "ΣΤ. ΕΛΑΙΩΝΑ - ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. ELAIONA - ST. YPER. LEOF. KIFISOU ",
+    "lineCode": 1520
+  },
+  "4577": {
+    "lineID": "421",
+    "lineDescr": "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+    "lineDescrEng": "AGIOI ANARGYROI - AGIA PARASKEVI",
+    "lineCode": 967
+  },
+  "4581": {
+    "lineID": "122",
+    "lineDescr": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΣΑΡΩΝΙΔΑ (ΔΙΕΛΕΥΣΗ ΑΠΟ ΣΧΟΛΗ ΤΟΥΡ. ΕΠΑΓΓ/ΤΩΝ)",
+    "lineDescrEng": "ST. ARGYROUPOLI - SARONIDA (SXOLI TOUR.EPAGGELMATON)",
+    "lineCode": 1660
+  },
+  "4583": {
+    "lineID": "829",
+    "lineDescr": "ΠΑΔΑ ΑΡΧΑΙΟΣ ΕΛΑΙΩΝΑΣ - ΣΤ.ΑΙΓΑΛΕΩ - ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ (ΕΩΣ ΣΤΑΣΗ ΤΕΡΜΑ)",
+    "lineDescrEng": "PADA AR. ELAIONAS - ST. AIGALEO - PADA ALSOS AIGALEO(TO TERMA)",
+    "lineCode": 1661
+  },
+  "4597": {
+    "lineID": "826",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - AG. MINAS",
+    "lineCode": 1406
+  },
+  "4603": {
+    "lineID": "805",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ",
+    "lineDescrEng": "ASPROPYRGOS - NEOKTISTA",
+    "lineCode": 995
+  },
+  "4604": {
+    "lineID": "865",
+    "lineDescr": "ΑΜΑΞΟΣΤΑΣΙΟ ΒΟΤΑΝΙΚΟΥ - ΜΑΝΔΡΑ",
+    "lineDescrEng": "DEPOT VOTANIKOU  - MANDRA",
+    "lineCode": 1270
+  },
+  "4622": {
+    "lineID": "Α7",
+    "lineDescr": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛΑΤΕΙΑ ΠΛΑΤΑΝΟΥ) (ΑΠΟ ΣΤΑΣΗ 1η ΚΡΥΟΝΕΡΙΟΥ)",
+    "lineDescrEng": "STOYRNARI - KIFISIA (PLATEIA PLATANOU) (FROM 1st KRYONERIOY)",
+    "lineCode": 1663
+  },
+  "4623": {
+    "lineID": "Α7",
+    "lineDescr": "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛΑΤΕΙΑ ΠΛΑΤΑΝΟΥ) (ΕΩΣ ΣΤΑΣΗ 2η ΚΡΥΟΝΕΡΙΟΥ)",
+    "lineDescrEng": "STOYRNARI - KIFISIA (PLATEIA PLATANOU) (TO 2nd KRYONERIOY)",
+    "lineCode": 1665
+  },
+  "4625": {
+    "lineID": "825",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI - AG. ANTONIOS - PEIRAIAS B ",
+    "lineCode": 857
+  },
+  "4627": {
+    "lineID": "825",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI - AG. ANTONIOS - PEIRAIAS B ",
+    "lineCode": 857
+  },
+  "4654": {
+    "lineID": "602",
+    "lineDescr": "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤ. ΠΑΝΟΡΜΟΥ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "N. IONIA - KALOGREZA - ST. PANORMOY ",
+    "lineCode": 981
+  },
+  "4662": {
+    "lineID": "731",
+    "lineDescr": "ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ - ΑΤΤΙΚΟ ΝΟΣ. - ΔΑΣΟΣ",
+    "lineDescrEng": "ANTHOUPOLI - ST. M. ANTHOUPOLI - ATTIKO NOS. - DASOS",
+    "lineCode": 845
+  },
+  "4663": {
+    "lineID": "803",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ ΧΑΪΔΑΡΙΟΥ",
+    "lineDescrEng": "PEIRAIAS - DASOS HAIDARIOU",
+    "lineCode": 1354
+  },
+  "4664": {
+    "lineID": "Α15",
+    "lineDescr": "ΣΤ. ΛΑΡΙΣΗΣ - ΔΑΣΟΣ",
+    "lineDescrEng": "ST. LARISIS - DASOS",
+    "lineCode": 840
+  },
+  "4666": {
+    "lineID": "406",
+    "lineDescr": "ΠΕΥΚΑΚΙΑ -ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ- ΣΤ.ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEFKAKIA -ST.DOUK.PLAKENTIAS-ST.NOMISMATOKOPEIO",
+    "lineCode": 1326
+  },
+  "4667": {
+    "lineID": "406",
+    "lineDescr": "ΠΕΥΚΑΚΙΑ -ΣΤ.ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ- ΣΤ.ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEFKAKIA -ST.DOUK.PLAKENTIAS-ST.NOMISMATOKOPEIO",
+    "lineCode": 1326
+  },
+  "4677": {
+    "lineID": "Α10",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ",
+    "lineDescrEng": "STATHMOS LARISIS - ACHARNAI",
+    "lineCode": 1020
+  },
+  "4678": {
+    "lineID": "Α10",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ",
+    "lineDescrEng": "STATHMOS LARISIS - ACHARNAI",
+    "lineCode": 1020
+  },
+  "4689": {
+    "lineID": "031",
+    "lineDescr": "ΓΟΥΔΗ - ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ",
+    "lineDescrEng": "GOUDI - ATTIKO NOSOKOMEIO",
+    "lineCode": 1669
+  },
+  "4690": {
+    "lineID": "031",
+    "lineDescr": "ΓΟΥΔΗ - ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ",
+    "lineDescrEng": "GOUDI - ATTIKO NOSOKOMEIO",
+    "lineCode": 1669
+  },
+  "4702": {
+    "lineID": "868",
+    "lineDescr": "ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ",
+    "lineDescrEng": "THRIASSIO HOSP.- ST.AG.MARINA",
+    "lineCode": 1668
+  },
+  "4703": {
+    "lineID": "868",
+    "lineDescr": "ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ.ΑΓ.ΜΑΡΙΝΑ",
+    "lineDescrEng": "THRIASSIO HOSP.- ST.AG.MARINA",
+    "lineCode": 1668
+  },
+  "4705": {
+    "lineID": "409",
+    "lineDescr": "ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑ  (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PAPAGOY - ST. ETHN. AMYNAS ",
+    "lineCode": 1357
+  },
+  "4706": {
+    "lineID": "509",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ - ΚΡΥΟΝΕΡΙ",
+    "lineDescrEng": "ZIRINEIO - AG. STEFANOS - KRYONERI",
+    "lineCode": 1187
+  },
+  "4707": {
+    "lineID": "509",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ - ΚΡΥΟΝΕΡΙ (ΜΕΧΡΙ ΚΥΝΟΥΡΙΑ)",
+    "lineDescrEng": "ZIRINEIO - AG. STEFANOS - KRYONERI (VIA KYNOURIA)",
+    "lineCode": 1205
+  },
+  "4708": {
+    "lineID": "509",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ (ΠΕΥΚΟΦΥΤΟ) - ΚΡΥΟΝΕΡΙ (ΜΕΧΡΙ ΚΥΝΟΥΡΙΑ)",
+    "lineDescrEng": "ZIRINEIO - AG. STEFANOS (PEFKOFYTO) - KRYONERI (VIA KYNOURIA)",
+    "lineCode": 1212
+  },
+  "4712": {
+    "lineID": "409",
+    "lineDescr": "ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "PAPAGOY - ST. ETHN. AMYNAS (TO AKADHMIA)",
+    "lineCode": 1670
+  },
+  "4714": {
+    "lineID": "314",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΡΑΦΗΝΑ",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - PALLINI - RAFINA",
+    "lineCode": 1272
+  },
+  "4715": {
+    "lineID": "314",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΡΑΦΗΝΑ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "lineDescrEng": "ST.DOUK.PLAKENTIAS - PALLINI - RAFINA (VIA PANORAMA)",
+    "lineCode": 1271
+  },
+  "4731": {
+    "lineID": "800",
+    "lineDescr": "ΝΙΚΑΙΑ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NIKAIA ST.NIKAIA",
+    "lineCode": 1397
+  },
+  "4737": {
+    "lineID": "051",
+    "lineDescr": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΟΜΟΝΟΙΑ (ΜΕΣΩ ΑΚΑΔ. ΠΛΑΤ) (ΑΠΟ ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ ΕΩΣ ΕΘΝΙΚΟ ΘΕΑΤΡΟ)",
+    "lineDescrEng": "ST. YPER. LEOF. KIFISOU - OMONOIA (ST. YP.L.KIFISOU - ETHNIKO THEATRO)",
+    "lineCode": 1671
+  },
+  "4741": {
+    "lineID": "526",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΚΕΦΑΛΑΡΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA- KEFALARI ",
+    "lineCode": 1000
+  },
+  "4783": {
+    "lineID": "227",
+    "lineDescr": "ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ",
+    "lineDescrEng": "ANO PETRALONA - AG. ARTEMIOS",
+    "lineCode": 847
+  },
+  "4820": {
+    "lineID": "807",
+    "lineDescr": "ΑΝΩ ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANO KORYDALLOS - ST. METRO AIGALEO",
+    "lineCode": 861
+  },
+  "4822": {
+    "lineID": "806",
+    "lineDescr": "ΣΧΙΣΤΟ - ΚΑΡΑΒΑΣ  - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "SXISTO - KARABAS - ST. KORYDALLOS",
+    "lineCode": 1401
+  },
+  "4823": {
+    "lineID": "809",
+    "lineDescr": "ΣΧΙΣΤO - ΣΤ.ΝΙΚΑΙΑ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "SXISTO - ST.METRO NIKAIA - ST.KORYDALLOS",
+    "lineCode": 1402
+  },
+  "4824": {
+    "lineID": "314",
+    "lineDescr": "Γ* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΝΕΑ ΜΑΚΡΗ",
+    "lineDescrEng": "C* ST. DOUK. PLAKENTIAS - PALLINI - N. MAKRI",
+    "lineCode": 1679
+  },
+  "4825": {
+    "lineID": "314",
+    "lineDescr": "Γ* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΝΕΑ ΜΑΚΡΗ",
+    "lineDescrEng": "C* ST. DOUK. PLAKENTIAS - PALLINI - N. MAKRI",
+    "lineCode": 1679
+  },
+  "4826": {
+    "lineID": "881",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ",
+    "lineDescrEng": "ELEYSINA - ASPROPYRGOS - ROYPAKI",
+    "lineCode": 813
+  },
+  "4827": {
+    "lineID": "881",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ",
+    "lineDescrEng": "ELEYSINA - ASPROPYRGOS - ROYPAKI",
+    "lineCode": 813
+  },
+  "4828": {
+    "lineID": "881",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ (ΜΕΣΩ ΚΟΙΜΗΤΗΡΙΟΥ)",
+    "lineDescrEng": "ELEYSINA - ASPROPYRGOS - ROYPAKI (VIA KOIMHTHRIOU)",
+    "lineCode": 1491
+  },
+  "4829": {
+    "lineID": "881",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ (ΜΕΣΩ ΚΟΙΜΗΤΗΡΙΟΥ)",
+    "lineDescrEng": "ELEYSINA - ASPROPYRGOS - ROYPAKI (VIA KOIMHTHRIOU)",
+    "lineCode": 1491
+  },
+  "4844": {
+    "lineID": "810",
+    "lineDescr": "ΣΧΙΣΤΟ - ΣΤ.ΚΟΡΥΔΑΛΛΟΣ  (ΕΩΣ ΓΟΥΝΑΡΗ-ΠΕΙΡΑΙΑΣ)",
+    "lineDescrEng": "SCHISTO - ST.KORYDALLOS  (TO GOYNARH-PEIRAIAS)",
+    "lineCode": 1654
+  },
+  "4855": {
+    "lineID": "310",
+    "lineDescr": "ΓΡΑΜΜΑΤΙΚΟ-ΜΑΡΑΘΩΝΑΣ-ΝΕΑ ΜΑΚΡΗ-ΡΑΦΗΝΑ-ΜΑΤΙ-ΜΑΡΑΘΩΝΑΣ ",
+    "lineDescrEng": "GRAMMATIKO-MARATHONAS - NEA MAKRI - RAFINA - MATI - MARATHONAS",
+    "lineCode": 1674
+  },
+  "4861": {
+    "lineID": "310",
+    "lineDescr": "ΜΑΡΑΘΩΝΑΣ-ΝΕΑ ΜΑΚΡΗ-ΡΑΦΗΝΑ-ΜΑΤΙ-ΜΑΡΑΘΩΝΑΣ (ΑΠΟ Ν.ΒΟΥΤΖΑ)",
+    "lineDescrEng": "MARATHONAS-NEA MAKRI-RAFINA-MATI-MARATHONAS (FROM N.BOUTZA)",
+    "lineCode": 1688
+  },
+  "4863": {
+    "lineID": "811",
+    "lineDescr": "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "CHAIDARI - ST. AGIA MARINA",
+    "lineCode": 862
+  },
+  "4864": {
+    "lineID": "811",
+    "lineDescr": "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "CHAIDARI - ST. AGIA MARINA",
+    "lineCode": 862
+  },
+  "4865": {
+    "lineID": "811",
+    "lineDescr": "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΕΩΣ ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ)",
+    "lineDescrEng": "CHAIDARI - ST. AGIA MARINA (TO PL. KOYMOYNDOYROY)",
+    "lineCode": 1627
+  },
+  "4866": {
+    "lineID": "811",
+    "lineDescr": "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΤΕΤΑΡΤΗ)",
+    "lineDescrEng": "CHAIDARI - ST. AGIA MARINA",
+    "lineCode": 1453
+  },
+  "4867": {
+    "lineID": "845",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (ΜΕΣΩ ΘΗΒΩΝ)",
+    "lineDescrEng": "PEIRAIAS - ELEYSINA (VIA THIVON)",
+    "lineCode": 872
+  },
+  "4872": {
+    "lineID": "314",
+    "lineDescr": "Β* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - Ν. ΒΟΥΤΖΑΣ (2ο Γυμνάσιο) (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "lineDescrEng": "B* ST.DOUK.PLAKENTIAS -PALLINI-N.BOUTZAS(2nd GYMNASIO) (VIA PANORAMA)",
+    "lineCode": 1690
+  },
+  "4873": {
+    "lineID": "314",
+    "lineDescr": "Β* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - Ν. ΒΟΥΤΖΑΣ (2ο Γυμνάσιο) (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "lineDescrEng": "B* ST.DOUK.PLAKENTIAS -PALLINI-N.BOUTZAS(2nd GYMNASIO) (VIA PANORAMA)",
+    "lineCode": 1690
+  },
+  "4879": {
+    "lineID": "721",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - KIFISIA ",
+    "lineCode": 918
+  },
+  "4880": {
+    "lineID": "752",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΑΠΟ ΣΤΑΣΗ ΣΤΡΟΦΗ) ",
+    "lineDescrEng": "ACHARNAI - AG. IOANNIS - AG. PETROS ",
+    "lineCode": 1484
+  },
+  "4897": {
+    "lineID": "727",
+    "lineDescr": "ΜΕΣΟΝΥΧΙ - ΑΓ.ΚΩΝΣΤΑΝΤΙΝΟΣ-ΑΓ.ΠΑΡΑΣΚΕΥΗ (ΕΩΣ 6ο ΓΕΝ. ΛΥΚΕΙΟ ΑΧΑΡΝΩΝ - ΜΕΣΗΜΕΡΙ)",
+    "lineDescrEng": "MESONYXI - AG.KONSTANTINOS - AG.PARASKEYH (ΤΟ 6th GEN.LYKEIO ACHARNAI)",
+    "lineCode": 1513
+  },
+  "4901": {
+    "lineID": "310",
+    "lineDescr": "ΜΑΡΑΘΩΝΑΣ - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ  - ΜΑΤΙ - ΜΑΡΑΘΩΝΑΣ (ΕΩΣ Ν.ΒΟΥΤΖΑ)",
+    "lineDescrEng": "MARATHONAS-NEA MAKRI-RAFINA-MATI-MARATHONAS (TO N.BOUTZA)",
+    "lineCode": 1689
+  },
+  "4906": {
+    "lineID": "608",
+    "lineDescr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ",
+    "lineDescrEng": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY",
+    "lineCode": 960
+  },
+  "4907": {
+    "lineID": "608",
+    "lineDescr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ ( ΕΩΣ ΣΤΑΣΗ ΧΑΤΖΗΔΑΚΗ)",
+    "lineDescrEng": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY (TO XATZIDAKI)",
+    "lineCode": 1568
+  },
+  "4908": {
+    "lineID": "608",
+    "lineDescr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ ( ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY (TO AKADIMIA)",
+    "lineCode": 1558
+  },
+  "4909": {
+    "lineID": "444",
+    "lineDescr": "ΣΤ. ΕΙΡΗΝΗ - ΓΑΛΑΤΣΙ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. EIRINI - GALATSI - ST. ANO PATISIA ",
+    "lineCode": 1056
+  },
+  "4910": {
+    "lineID": "444",
+    "lineDescr": "ΣΤ. ΕΙΡΗΝΗ - ΓΑΛΑΤΣΙ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΑΓΩΝΑ-ΟΑΚΑ)",
+    "lineDescrEng": "ST. EIRINI - GALATSI - ST. ANO PATISIA (DUE TO ATHLETIC EVENTS)",
+    "lineCode": 1188
+  },
+  "4913": {
+    "lineID": "11",
+    "lineDescr": "ΑΝΩ ΠΑΤΗΣΙΑ - Ν. ΠΑΓΚΡΑΤΙ - Ν. ΕΛΒΕΤΙΑ",
+    "lineDescrEng": "ANO PATISIA - N. PAGKRATI - N. ELVETIA",
+    "lineCode": 1079
+  },
+  "4914": {
+    "lineID": "2",
+    "lineDescr": "ΑΝΩ ΚΥΨΕΛΗ - ΠΑΓΚΡΑΤΙ - ΚΑΙΣΑΡΙΑΝΗ",
+    "lineDescrEng": "ANO KIPSELI - PAGKRATI - KAISARIANH",
+    "lineCode": 1070
+  },
+  "4915": {
+    "lineID": "4",
+    "lineDescr": "ΑΝΩ ΚΥΨΕΛΗ - ΑΓ. ΑΡΤΕΜΙΟΣ - ΣΤ. ΑΓ. ΙΩΑΝΝΗΣ",
+    "lineDescrEng": "ANO KYPSELI - AG. ARTEMIOS - ST. AG. IOANNIS",
+    "lineCode": 1071
+  },
+  "4916": {
+    "lineID": "141",
+    "lineDescr": "ΣΤ. ΔΑΦΝΗ - ΚΑΛΑΜΑΚΙ (ΑΠΟ ΣΤΑΣΗ ΜΕΤΑΜΟΡΦΩΣΗ)",
+    "lineDescrEng": "ST. DAFNI - KALAMAKI (FROM METAMORFOSI STOP)",
+    "lineCode": 1697
+  },
+  "4917": {
+    "lineID": "141",
+    "lineDescr": "ΣΤ. ΔΑΦΝΗ - ΚΑΛΑΜΑΚΙ (ΕΩΣ ΣΤΑΣΗ ΜΕΤΑΜΟΡΦΩΣΗ)",
+    "lineDescrEng": "ST. DAFNI - KALAMAKI (TO METAMORFOSI STOP)",
+    "lineCode": 1698
+  },
+  "4918": {
+    "lineID": "810",
+    "lineDescr": "ΣΧΙΣΤΟ - ΣΤ. ΚΟΡΥΔΑΛΛΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "SCHISTO - ST. KORYDALLOS",
+    "lineCode": 1650
+  },
+  "4927": {
+    "lineID": "537",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ (ΜΕΣΩ ΘΡΑΚΟΜΑΚΕΔΟΝΩΝ)",
+    "lineDescrEng": "ACHARNAI - VARYMPOMPI (VIA THRAKOMAKEDONON)",
+    "lineCode": 1480
+  },
+  "4928": {
+    "lineID": "537",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ (ΜΕΣΩ ΘΡΑΚΟΜΑΚΕΔΟΝΩΝ)",
+    "lineDescrEng": "ACHARNAI - VARYMPOMPI (VIA THRAKOMAKEDONON)",
+    "lineCode": 1480
+  },
+  "4930": {
+    "lineID": "822",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.AG.ANTONIOS - NEA ZOI ",
+    "lineCode": 1067
+  },
+  "4931": {
+    "lineID": "822",
+    "lineDescr": "ΣΤ.ΑΓ.ΑΝΤΩΝΙΟΣ -ΝΕΑ ΖΩΗ (ΑΠΟ ΑΛΣΟΣ ΝΕΑ ΖΩΗ ΕΩΣ ΣΤ. ΑΓ.ΑΝΤΩΝΙΟΣ)",
+    "lineDescrEng": "ST.AG.ANTONIOS - NEA ZOI (N.ZOI TO ST.AG.ANTONIOS)",
+    "lineCode": 1210
+  },
+  "4932": {
+    "lineID": "822",
+    "lineDescr": "ΣΤ.ΑΓ.ΑΝΤΩΝΙΟΣ -ΝΕΑ ΖΩΗ (ΑΠΟ ΑΛΣΟΣ ΝΕΑ ΖΩΗ ΕΩΣ ΟΜΟΝΟΙΑ)",
+    "lineDescrEng": "ST.AG.ANTONIOS - NEA ZOI (N.ZOI TO OMONOIA)",
+    "lineCode": 1209
+  },
+  "4934": {
+    "lineID": "823",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΑΓ. ΒΑΣΙΛΕΙΟΣ (ΑΠΟ ΑΓ.ΒΑΣΙΛΕΙΟ)",
+    "lineDescrEng": "ST. AG. ANTONIOS - AG. VASILEIOS (FROM AG.VASILEIO)",
+    "lineCode": 1629
+  },
+  "4935": {
+    "lineID": "805",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ",
+    "lineDescrEng": "ASPROPYRGOS - NEOKTISTA",
+    "lineCode": 995
+  },
+  "4939": {
+    "lineID": "400",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ -  ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - ST.DOYK.PLAKENTIAS (NIGHT LINE)",
+    "lineCode": 1693
+  },
+  "4941": {
+    "lineID": "Ε90",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ (ΣΧΟΛΙΚΗ EXPRESS)",
+    "lineDescrEng": "PEIRAIAS - PANEPISTIMIOYPOLI (SCHOLIKI EXPRESS)",
+    "lineCode": 1203
+  },
+  "4947": {
+    "lineID": "651",
+    "lineDescr": "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Α (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PSYCHIKO - PANORMOY A ",
+    "lineCode": 1057
+  },
+  "4948": {
+    "lineID": "036",
+    "lineDescr": "ΣΤ. ΚΑΤΕΧΑΚΗ-ΣΤ. ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KATECHAKI - KYPSELI",
+    "lineCode": 804
+  },
+  "4949": {
+    "lineID": "036",
+    "lineDescr": "ΣΤ. ΚΑΤΕΧΑΚΗ -ΣΤ. ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΑΠΟ ΠΛΑΤΕΙΑ ΚΥΨΕΛΗΣ)",
+    "lineDescrEng": "KATECHAKI - KYPSELI",
+    "lineCode": 1220
+  },
+  "4955": {
+    "lineID": "509",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ - ΚΡΥΟΝΕΡΙ",
+    "lineDescrEng": "ZIRINEIO - AG. STEFANOS - KRYONERI",
+    "lineCode": 1187
+  },
+  "4957": {
+    "lineID": "509",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ - ΚΡΥΟΝΕΡΙ (ΜΕΧΡΙ ΚΥΝΟΥΡΙΑ)",
+    "lineDescrEng": "ZIRINEIO - AG. STEFANOS - KRYONERI (VIA KYNOURIA)",
+    "lineCode": 1205
+  },
+  "4958": {
+    "lineID": "509",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ (ΠΕΥΚΟΦΥΤΟ) - ΚΡΥΟΝΕΡΙ (ΜΕΧΡΙ ΚΥΝΟΥΡΙΑ)",
+    "lineDescrEng": "ZIRINEIO - AG. STEFANOS (PEFKOFYTO) - KRYONERI (VIA KYNOURIA)",
+    "lineCode": 1212
+  },
+  "4969": {
+    "lineID": "701",
+    "lineDescr": "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KAMATERO - ILION ST. ANTHOYPOLI ",
+    "lineCode": 987
+  },
+  "4970": {
+    "lineID": "705",
+    "lineDescr": "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΠΛ. ΑΓ. ΑΝΑΡΓΥΡΩΝ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KAMATERO - ILION - PL. AG. ANARGYRON - ST. ANTHOYPOLI",
+    "lineCode": 986
+  },
+  "4971": {
+    "lineID": "747",
+    "lineDescr": "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PETROYPOLI - PANORAMA - ST. ANTHOYPOLI ",
+    "lineCode": 990
+  },
+  "4972": {
+    "lineID": "747",
+    "lineDescr": "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ  (ΔΙΕΛΕΥΣΗ ΑΠΟ ΑΜΑΞΟΣΤΑΣΙΟ ΔΗΜΟΥ ΠΕΤΡΟΥΠΟΛΗΣ)",
+    "lineDescrEng": "PETROYPOLI - PANORAMA - ST. ANTHOYPOLI (VIA AMAXOSTASIO PETROYPOLIS)",
+    "lineCode": 1662
+  },
+  "4982": {
+    "lineID": "203",
+    "lineDescr": "ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΕΠΙΣΤΡΟΦΗ ΜΕΣΩ ΕΚΕΜΣ)",
+    "lineDescrEng": "KAREAS - AKADIMIA (VIA EKEMS)",
+    "lineCode": 1699
+  },
+  "4986": {
+    "lineID": "112",
+    "lineDescr": "ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "AG. DIMITRIOS - STATΗ. DAFNI (TO AKADHMIA)",
+    "lineCode": 1701
+  },
+  "4987": {
+    "lineID": "112",
+    "lineDescr": "ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ (ΑΠΟ ΣΤΑΣΗ ΜΑΚΡΥΓΙΑΝΝΗ)",
+    "lineDescrEng": "AG. DIMITRIOS - STATH. DAFNI (FROM MAKRYGΙANNI STOP)",
+    "lineCode": 1700
+  },
+  "5043": {
+    "lineID": "140",
+    "lineDescr": "ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "POLIGONO - GLIFADA",
+    "lineCode": 937
+  },
+  "5044": {
+    "lineID": "214",
+    "lineDescr": "ΖΩΟΔΟΧΟΣ ΠΗΓΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ZOODOXOS PIGI - AKADIMIA",
+    "lineCode": 1363
+  },
+  "5045": {
+    "lineID": "224",
+    "lineDescr": "ΚΑΙΣΑΡΙΑΝΗ - ΕΛ. ΒΕΝΙΖΕΛΟΥ",
+    "lineDescrEng": "KAISARIANI - EL. VENIZELOY",
+    "lineCode": 799
+  },
+  "5052": {
+    "lineID": "330",
+    "lineDescr": "ΚΟΡΩΠΙ - ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ 17η ΣΤΑΣΗ ΑΓ. ΜΑΡΙΝΑΣ ΕΩΣ ΚΟΡΩΠΙ)",
+    "lineDescrEng": "KOROPI - AG.MARINA (FROM 17th AG. MARINAS TO KOROPI)",
+    "lineCode": 1517
+  },
+  "5053": {
+    "lineID": "309",
+    "lineDescr": "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΑΠΟ ΔΗΜΑΡΧΕΙΟ)",
+    "lineDescrEng": "KOROPI - ST. PROASTIAKOY - KOROPI (FROM DIMARXEIO)",
+    "lineCode": 1518
+  },
+  "5054": {
+    "lineID": "309",
+    "lineDescr": "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΕΩΣ ΠΑΡΑΚΡΑΤΗΜΑ)",
+    "lineDescrEng": "KOROPI - ST. PROASTIAKOU - KOROPI (TO PARAKRATIMA)",
+    "lineCode": 1519
+  },
+  "5058": {
+    "lineID": "706",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ-ΙΛΙΟΝ (ΜΕΣΩ Λ. ΑΝ. ΠΑΠΑΝΔΡΕΟΥ)",
+    "lineDescrEng": "ST. AG. ANTONIOS-ILION (VIA L. ANDREA PAPANDREOU)",
+    "lineCode": 1247
+  },
+  "5059": {
+    "lineID": "706",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ (ΜΕΣΩ Λ. ΑΝ. ΠΑΠΑΝΔΡΕΟΥ) (ΕΩΣ ΣΤΑΣΗ ΕΦΟΡΙΑ)",
+    "lineDescrEng": "ST. AG. ANTONIOS-ILION (VIA L. ANDREA PAPANDREOU) (TO EFORIA)",
+    "lineCode": 1712
+  },
+  "5060": {
+    "lineID": "706",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ (ΜΕΣΩ Λ. ΑΝ. ΠΑΠΑΝΔΡΕΟΥ) (ΑΠΟ ΣΤΑΣΗ ΙΔΟΜΕΝΕΩΣ)",
+    "lineDescrEng": "ST. AG. ANTONIOS-ILION (VIA L. ANDREA PAPANDREOU) (FROM IDOMENEOS",
+    "lineCode": 1713
+  },
+  "5069": {
+    "lineID": "307",
+    "lineDescr": "ΣΤ. Δ.ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΣΤ.ΠΡΟΑΣΤ. ΚΟΡΩΠΙ",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - GL. NERA - PROAST. KOROPIOY",
+    "lineCode": 1041
+  },
+  "5071": {
+    "lineID": "307",
+    "lineDescr": "ΣΤ. Δ.ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΣΤ.ΠΡΟΑΣΤ. ΚΟΡΩΠΙ",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - GL. NERA - PROAST. KOROPIOY",
+    "lineCode": 1041
+  },
+  "5074": {
+    "lineID": "801",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΠΑΛΑΣΚΑ ",
+    "lineDescrEng": "PEIRAIAS - PALASKA",
+    "lineCode": 1114
+  },
+  "5080": {
+    "lineID": "827",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΣΠΡΑ ΧΩΜΑΤΑ - ΣΤ. ΝΙΚΑΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - ASPRA CHOMATA - ST. NIKAIA",
+    "lineCode": 1715
+  },
+  "5082": {
+    "lineID": "838",
+    "lineDescr": "ΟΜΟΝΟΙΑ - ΡΕΝΤΗΣ - ΠΑΛ. ΚΟΚΚΙΝΙΑ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "OMONOIA - RENTIS - PAL. KOKKINIA - PEIRAIAS",
+    "lineCode": 1716
+  },
+  "5083": {
+    "lineID": "838",
+    "lineDescr": "ΟΜΟΝΟΙΑ - ΡΕΝΤΗΣ - ΠΑΛ. ΚΟΚΚΙΝΙΑ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "OMONOIA - RENTIS - PAL. KOKKINIA - PEIRAIAS",
+    "lineCode": 1716
+  },
+  "5086": {
+    "lineID": "12",
+    "lineDescr": "ΖΑΠΠΕΙΟ - ΠΕΡΙΣΤΕΡΙ (ΑΓ. ΙΕΡΟΘΕΟΣ)",
+    "lineDescrEng": "ZAPPEIO - PERISTERI (AG. IEROTHEOS)",
+    "lineCode": 1080
+  },
+  "5094": {
+    "lineID": "734",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - NOS. AG. ANARGYROI",
+    "lineCode": 1560
+  },
+  "5101": {
+    "lineID": "Γ12",
+    "lineDescr": "ΚΑΜΑΤΕΡΟ - ΑΓ. ΝΙΚΟΛΑΟΣ - ΙΛΙΟΝ - ΠΟΛΥΤΕΧΝΕΙΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KAMATERO - AG. NIKOLAOS - ILION - POLYTECHNEIO",
+    "lineCode": 832
+  },
+  "5102": {
+    "lineID": "25",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΙΛΙΟΝ - ΚΑΜΑΤΕΡΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST.AG.ANTONIOS - ILION - KAMATERO",
+    "lineCode": 1158
+  },
+  "5108": {
+    "lineID": "879",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΕΛΕΥΣΙΝΑ",
+    "lineDescrEng": "ACHARNAI - THRIASIO NOSOKOMEIO - ELEYSINA",
+    "lineCode": 912
+  },
+  "5116": {
+    "lineID": "162",
+    "lineDescr": "ΒΟΥΛΑ - ΠΑΝΟΡΑΜΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "VOYLA - PANORAMA",
+    "lineCode": 944
+  },
+  "5120": {
+    "lineID": "209",
+    "lineDescr": "ΥΜΗΤΤΟΣ - ΜΕΤΑΜΟΡΦΩΣΗ - ΣΥΝΤΑΓΜΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "YMITTOS-METAMORFOSI - PLATEIA SYNTAGMATOS ",
+    "lineCode": 1720
+  },
+  "5121": {
+    "lineID": "209",
+    "lineDescr": "ΥΜΗΤΤΟΣ - ΜΕΤΑΜΟΡΦΩΣΗ - ΣΥΝΤΑΓΜΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "YMITTOS-METAMORFOSI - PLATEIA SYNTAGMATOS ",
+    "lineCode": 1720
+  },
+  "5122": {
+    "lineID": "211",
+    "lineDescr": "ΥΜΗΤΤΟΣ - ΜΕΤΑΜΟΡΦΩΣΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "YMITTOS-METAMORFOSI - AKADIMIA",
+    "lineCode": 1721
+  },
+  "5127": {
+    "lineID": "319",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (ΕΩΣ ΣΤΑΣΗ ΤΕΡΜΑ)",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (TO TERMA)",
+    "lineCode": 1426
+  },
+  "5128": {
+    "lineID": "319",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA",
+    "lineCode": 1047
+  },
+  "5129": {
+    "lineID": "861Β",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ – ΜΑΝΔΡΑ - ΒΙΛΙΑ - ΕΡΥΘΡΕΣ",
+    "lineDescrEng": "ELEYSINA - MANDRA - VILIA - ERYTHRES",
+    "lineCode": 1617
+  },
+  "5130": {
+    "lineID": "861Β",
+    "lineDescr": "ΕΛΕΥΣΙΝΑ – ΜΑΝΔΡΑ - ΒΙΛΙΑ - ΕΡΥΘΡΕΣ",
+    "lineDescrEng": "ELEYSINA - MANDRA - VILIA - ERYTHRES",
+    "lineCode": 1617
+  },
+  "5131": {
+    "lineID": "735",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΖΕΦΥΡΙ - ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ACHARNAI - ZEFYRI - ST. KATO PATISIA ",
+    "lineCode": 1417
+  },
+  "5134": {
+    "lineID": "790",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΠΕΡΙΣΤΕΡΙ (ΑΝΘΟΥΠΟΛΗ) ΝΥΧΤΕΡΙΝΗ",
+    "lineDescrEng": "GLYFADA - PERISTERI (ANTHOYPOLI) (NIGHT LINE)",
+    "lineCode": 1723
+  },
+  "5135": {
+    "lineID": "790",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΠΕΡΙΣΤΕΡΙ (ΑΝΘΟΥΠΟΛΗ) ΝΥΧΤΕΡΙΝΗ",
+    "lineDescrEng": "GLYFADA - PERISTERI (ANTHOYPOLI) (NIGHT LINE)",
+    "lineCode": 1723
+  },
+  "5137": {
+    "lineID": "17",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΓΕΩΡΓΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - AG. GEORGIOS ",
+    "lineCode": 1086
+  },
+  "5150": {
+    "lineID": "819",
+    "lineDescr": "ΠΕΡΑΜΑ - ΝΕΚΡ. ΣΧΙΣΤΟΥ",
+    "lineDescrEng": "PERAMA - NEKR. SCHISTOY",
+    "lineCode": 890
+  },
+  "5164": {
+    "lineID": "871",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (ΜΕΣΩ Λ. ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)",
+    "lineDescrEng": "PEIRAIAS - ELEYSINA (VIA L. ETHN. ANTISTASEOS)",
+    "lineCode": 854
+  },
+  "5165": {
+    "lineID": "871Τ",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΧΙΣΤΟ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - SCHISTO",
+    "lineCode": 1117
+  },
+  "5166": {
+    "lineID": "871Τ",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΧΙΣΤΟ (ΕΩΣ ΕΛΕΥΣΙΝΑ)",
+    "lineDescrEng": "PEIRAIAS - SCHISTO (TO ELEYSINA)",
+    "lineCode": 1544
+  },
+  "5169": {
+    "lineID": "878",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΕΛΕΥΣΙΝΑ",
+    "lineDescrEng": "ACHARNAI - ELEYSINA",
+    "lineCode": 911
+  },
+  "5170": {
+    "lineID": "879",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΕΛΕΥΣΙΝΑ",
+    "lineDescrEng": "ACHARNAI - THRIASIO NOSOKOMEIO - ELEYSINA",
+    "lineCode": 912
+  },
+  "5175": {
+    "lineID": "704",
+    "lineDescr": "ΚΑΜΑΤΕΡΟ - ΠΛ. ΑΓ. ΑΝΑΡΓΥΡΩΝ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KAMATERO - PL. AG. ANARGYRON",
+    "lineCode": 823
+  },
+  "5178": {
+    "lineID": "892",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΙΛΙΟΝ",
+    "lineDescrEng": "AG. VARVARA - CHAIDARI - AG. ANARGYROI-ILION",
+    "lineCode": 844
+  },
+  "5181": {
+    "lineID": "205",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "GLYFADA - SOURMENA - TERPSITHEA",
+    "lineCode": 1729
+  },
+  "5182": {
+    "lineID": "205",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ  (ΑΠΟ ΤΕΡΨΙΘΕΑ)",
+    "lineDescrEng": "GLYFADA - SOURMENA - TERPSITHEA (FROM TERPSITHEA)",
+    "lineCode": 1730
+  },
+  "5184": {
+    "lineID": "205",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ (ΑΠΟ ΣΤΑΣΗ 1η ΤΕΡΨΙΘΕΑΣ)",
+    "lineDescrEng": "GLYFADA - SOURMENA - TERPSITHEA (FROM 1st TERPSITHEAS)",
+    "lineCode": 1732
+  },
+  "5185": {
+    "lineID": "205",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ (ΕΩΣ ΤΕΡΨΙΘΕΑ)",
+    "lineDescrEng": "GLYFADA - SOURMENA - TERPSITHEA (TO TERPSITHEA)",
+    "lineCode": 1731
+  },
+  "5192": {
+    "lineID": "825",
+    "lineDescr": "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NEAPOLI - AG. ANTONIOS - PEIRAIAS B ",
+    "lineCode": 857
+  },
+  "5196": {
+    "lineID": "2",
+    "lineDescr": "ΑΝΩ ΚΥΨΕΛΗ - ΠΑΓΚΡΑΤΙ - ΚΑΙΣΑΡΙΑΝΗ",
+    "lineDescrEng": "ANO KIPSELI - PAGKRATI - KAISARIANH",
+    "lineCode": 1070
+  },
+  "5202": {
+    "lineID": "400",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ -  ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - ST.DOYK.PLAKENTIAS (NIGHT LINE)",
+    "lineCode": 1693
+  },
+  "5211": {
+    "lineID": "712",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΕΡΓ. ΠΟΛΥΚΑΤΟΙΚΙΕΣ - Α. ΛΙΟΣΙΑ ",
+    "lineDescrEng": "ACHARNAI - ERG. POLYKATOIKIES - A. LIOSIA",
+    "lineCode": 1707
+  },
+  "5229": {
+    "lineID": "703",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (ΜΕΣΩ ΘΗΒΩΝ)",
+    "lineDescrEng": "PEIRAIAS - AG. ANARGYROI - AG. ELEYTHERIOS (VIA THIVON)",
+    "lineCode": 1435
+  },
+  "5231": {
+    "lineID": "400",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ -  ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - ST.DOYK.PLAKENTIAS (NIGHT LINE)",
+    "lineCode": 1693
+  },
+  "5232": {
+    "lineID": "400",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ -  ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ (ΝΥΧΤΕΡΙΝΗ)",
+    "lineDescrEng": "PEIRAIAS - ST.DOYK.PLAKENTIAS (NIGHT LINE)",
+    "lineCode": 1693
+  },
+  "5270": {
+    "lineID": "Α11",
+    "lineDescr": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "lineDescrEng": "PL. VATHI - ILION - PETROYPOLI",
+    "lineCode": 1739
+  },
+  "5271": {
+    "lineID": "Α11",
+    "lineDescr": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "lineDescrEng": "PL. VATHI - ILION - PETROYPOLI",
+    "lineCode": 1739
+  },
+  "5272": {
+    "lineID": "Β11",
+    "lineDescr": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ",
+    "lineDescrEng": "PL. VATHI - ILION - PETROYPOLI",
+    "lineCode": 1740
+  },
+  "5273": {
+    "lineID": "Β11",
+    "lineDescr": "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ",
+    "lineDescrEng": "PL. VATHI - ILION - PETROYPOLI",
+    "lineCode": 1740
+  },
+  "5284": {
+    "lineID": "136",
+    "lineDescr": "ΑΝΩ Ν. ΣΜΥΡΝΗ Β - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANO N. SMYRNI V - ST. SYGGROY FIX ",
+    "lineCode": 1031
+  },
+  "5285": {
+    "lineID": "137",
+    "lineDescr": "ΑΝΩ Ν. ΣΜΥΡΝΗ Α - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANO N. SMYRNI A - ST. SYGGROY FIX ",
+    "lineCode": 1030
+  },
+  "5301": {
+    "lineID": "316",
+    "lineDescr": "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ",
+    "lineDescrEng": "ST. NOMISMATOKOPEIO - ARTEMIS",
+    "lineCode": 1005
+  },
+  "5314": {
+    "lineID": "206",
+    "lineDescr": "ΑΓ.ΜΑΡΙΝΑ - ΣΤ. ΔΑΦΝΗΣ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "AGIA MARINA - ST. DAFNIS (ΤΟ AKADIMIA)",
+    "lineCode": 1595
+  },
+  "5315": {
+    "lineID": "237",
+    "lineDescr": "ΑΝΩ ΗΛΙΟΥΠΟΛΗ - ΣΤ. ΔΑΦΝΗΣ (ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "ANO ILIOUPOLI - ST.DAFNIS (TO AKADIMIA)",
+    "lineCode": 1597
+  },
+  "5330": {
+    "lineID": "046",
+    "lineDescr": "ΜΟΥΣΕΙΟ - ΕΛΛΗΝΟΡΩΣΩΝ",
+    "lineDescrEng": "MOUSEIO - ELLINOROSON",
+    "lineCode": 831
+  },
+  "5331": {
+    "lineID": "106",
+    "lineDescr": "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AG. BARBARA - ST. SYGGROY FIX",
+    "lineCode": 1026
+  },
+  "5332": {
+    "lineID": "126",
+    "lineDescr": "ΠΑΛ. ΦΑΛΗΡΟ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PAL. FALIRO - ST. SYNGROU FIX ",
+    "lineCode": 1027
+  },
+  "5333": {
+    "lineID": "126",
+    "lineDescr": "ΠΑΛ. ΦΑΛΗΡΟ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PAL. FALIRO - ST. SYNGROU FIX ",
+    "lineCode": 1027
+  },
+  "5335": {
+    "lineID": "309",
+    "lineDescr": "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KOROPI - ST. PROASTIAKOY - KOROPI ",
+    "lineCode": 1006
+  },
+  "5346": {
+    "lineID": "608",
+    "lineDescr": "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ",
+    "lineDescrEng": "GALATSI - AKADIMIA - NEKR. ZOGRAFOY",
+    "lineCode": 960
+  },
+  "5349": {
+    "lineID": "Α3",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΓΛΥΦΑΔΑ (ΜΕΣΩ Λ. ΒΟΥΛΙΑΓΜΕΝΗΣ)",
+    "lineDescrEng": "AKADIMIA - GLYFADA (VIA L. VOULIAGMENIS)",
+    "lineCode": 1422
+  },
+  "5350": {
+    "lineID": "Α3",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΓΛΥΦΑΔΑ (ΜΕΣΩ Λ. ΒΟΥΛΙΑΓΜΕΝΗΣ)",
+    "lineDescrEng": "AKADIMIA - GLYFADA (VIA L. VOULIAGMENIS)",
+    "lineCode": 1422
+  },
+  "5354": {
+    "lineID": "301",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1162
+  },
+  "5355": {
+    "lineID": "301",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1162
+  },
+  "5356": {
+    "lineID": "720",
+    "lineDescr": "ΑΝΑΚΑΣΑ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΑΤΤΙΚΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANAKASA - AG. ANARGYROI - ST. ATTIKI",
+    "lineCode": 1373
+  },
+  "5357": {
+    "lineID": "720",
+    "lineDescr": "ΑΝΑΚΑΣΑ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΑΤΤΙΚΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANAKASA - AG. ANARGYROI - ST. ATTIKI",
+    "lineCode": 1373
+  },
+  "5361": {
+    "lineID": "054",
+    "lineDescr": "ΠΕΡΙΣΣΟΣ - ΛΑΜΠΡΙΝΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PERISSOS - LAMPRINI - OMONOIA ",
+    "lineCode": 1556
+  },
+  "5362": {
+    "lineID": "712",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΕΡΓ. ΠΟΛΥΚΑΤΟΙΚΙΕΣ - Α. ΛΙΟΣΙΑ (ΕΩΣ ΓΕΦΥΡΑ ΑΤΤΙΚΗΣ ΟΔΟΥ) ",
+    "lineDescrEng": "ACHARNAI - ERG. POLYKATOIKIES - A. LIOSIA (TO GEFYRA ATTIKIS ODOU)",
+    "lineCode": 1719
+  },
+  "5364": {
+    "lineID": "604",
+    "lineDescr": "ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΜΕΤΑΜΟΡΦΩΣΗΣ - ΝΕΑ ΙΩΝΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "NOS. AG. ANARGYROI - ST. METAMORFOSIS - NEA IONIA",
+    "lineCode": 983
+  },
+  "5366": {
+    "lineID": "311",
+    "lineDescr": "ΣΤ. ΚΟΡΩΠΙ - ΚΑΛΥΒΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KOROPI - KALIVIA ",
+    "lineCode": 1751
+  },
+  "5369": {
+    "lineID": "220",
+    "lineDescr": "ΑΝΩ ΙΛΙΣΙΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ANO ILISIA - AKADIMIA ",
+    "lineCode": 949
+  },
+  "5370": {
+    "lineID": "221",
+    "lineDescr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PANEPISTIMIOYPOLI - AKADIMIA ",
+    "lineCode": 1004
+  },
+  "5371": {
+    "lineID": "221",
+    "lineDescr": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΑΚΑΔΗΜΙΑ (ΕΝΤΟΣ ΠΑΝΕΠΙΣΤΗΜΙΟΥ)",
+    "lineDescrEng": "PANEPISTIMIOYPOLI - AKADIMIA ",
+    "lineCode": 1562
+  },
+  "5372": {
+    "lineID": "171",
+    "lineDescr": "ΒΑΡΚΙΖΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ (ΕΝΑΛΛΑΚΤΙΚΗ ΛΟΓΩ ΛΑΪΚΗΣ ΚΑΘΕ ΠΑΡΑΣΚΕΥΗ)",
+    "lineDescrEng": "VARKIZA - ST. ARGYROUPOLI (EVERY FRIDAY DURING THE FARMERS MARKET)",
+    "lineCode": 1754
+  },
+  "5373": {
+    "lineID": "Χ97",
+    "lineDescr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS) ",
+    "lineCode": 1547
+  },
+  "5374": {
+    "lineID": "Χ97",
+    "lineDescr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) (ΑΠΟ ΣΤ. ΕΛΛΗΝΙΚΟ)",
+    "lineDescrEng": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS) (FROM ST. ELLINIKO)",
+    "lineCode": 1549
+  },
+  "5375": {
+    "lineID": "Χ97",
+    "lineDescr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) - ΝΥΧΤΕΡΙΝΗ (ΑΠΟ ΣΤ.ΔΑΦΝΗ)",
+    "lineDescrEng": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS) (NIGHTLINE - FROM ST. DAFNI)",
+    "lineCode": 1552
+  },
+  "5376": {
+    "lineID": "Χ97",
+    "lineDescr": "ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ - ΣΤ. ΕΛΛΗΝΙΚΟ (EXPRESS) ΝΥΧΤΕΡΙΝΗ (ΕΩΣ ΣΤ. ΔΑΦΝΗ)",
+    "lineDescrEng": "AEROL. ATHINON - ST. ELLINIKO (EXPRESS) (NIGHTLINE - TO DAFNI)",
+    "lineCode": 1553
+  },
+  "5391": {
+    "lineID": "522",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Α (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA - ADAMES A ",
+    "lineCode": 998
+  },
+  "5392": {
+    "lineID": "522",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Α (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA - ADAMES A ",
+    "lineCode": 998
+  },
+  "5396": {
+    "lineID": "314",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΡΑΦΗΝΑ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ ΠΑΛ.ΔΙΑΔΡΟΜΗΣ)",
+    "lineDescrEng": "ST.DOUK.PLAKENTIAS - PALLINI - RAFINA (VIA PANORAMA PAL.DIADROMH)",
+    "lineCode": 1424
+  },
+  "5397": {
+    "lineID": "311",
+    "lineDescr": "ΣΤ. ΚΟΡΩΠΙ - ΚΑΛΥΒΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KOROPI - KALIVIA ",
+    "lineCode": 1751
+  },
+  "5398": {
+    "lineID": "311",
+    "lineDescr": "ΚΑΛΥΒΙΑ - ΣΤ. ΚΟΡΩΠΙ (ΑΠΟ ΔΗΜΑΡΧΕΙΟ ΚΑΛΥΒΙΩΝ)",
+    "lineDescrEng": "KALIVIA - ST. KOROPI (FROM KALIVIA)",
+    "lineCode": 1755
+  },
+  "5399": {
+    "lineID": "823",
+    "lineDescr": "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΑΓ. ΒΑΣΙΛΕΙΟΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. AG. ANTONIOS - AG. VASILEIOS ",
+    "lineCode": 1066
+  },
+  "5432": {
+    "lineID": "622",
+    "lineDescr": "ΓΟΥΔΗ - ΑΝΩ ΓΑΛΑΤΣΙ",
+    "lineDescrEng": "GOYDI - ANO GALATSI",
+    "lineCode": 935
+  },
+  "5433": {
+    "lineID": "815",
+    "lineDescr": "ΓΟΥΔΗ - ΤΑΥΡΟΣ",
+    "lineDescrEng": "GOYDI - TAYROS",
+    "lineCode": 934
+  },
+  "5434": {
+    "lineID": "543",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA - NOS. AG. ANARGYROI",
+    "lineCode": 1623
+  },
+  "5435": {
+    "lineID": "543Α",
+    "lineDescr": "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΟΙ (ΜΕΣΩ ΚΑΛΥΦΤΑΚΗ) (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KIFISIA - NOS. AG. ANARGYROI (VIA KALIFTAKI)",
+    "lineCode": 1624
+  },
+  "5436": {
+    "lineID": "866",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ASPROPYRGOS - ST. AG. MARINA",
+    "lineCode": 1367
+  },
+  "5437": {
+    "lineID": "866",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΣΤ. ΑΓ. ΜΑΡΙΝΑ ΕΩΣ ΑΣΠΡΟΠΥΡΓΟ)",
+    "lineDescrEng": "ASPROPYRGOS - ST. AG. MARINA (FROM AG.MARINA TO ASPROPYRGOS)",
+    "lineCode": 1497
+  },
+  "5438": {
+    "lineID": "866",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΠΛ.ΚΟΥΜΟΥΝΔΟΥΡΟΥ ΕΩΣ ΑΣΠΡΟΠΥΡΓΟ)",
+    "lineDescrEng": "ASPROPYRGOS - ST. AG. MARINA (FROM PL.KOUMOUNDOUROU TO ASPROPYRGOS)",
+    "lineCode": 1499
+  },
+  "5439": {
+    "lineID": "866",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΨΑΡΙ ΕΩΣ ΑΣΠΡΟΠΥΡΓΟ)",
+    "lineDescrEng": "ASPROPYRGOS - ST. AG. MARINA (FROM PSARI TO ASPROPYRGOS)",
+    "lineCode": 1504
+  },
+  "5440": {
+    "lineID": "866",
+    "lineDescr": "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΑΠΟ ΑΣΠΡΟΠΥΡΓΟ ΕΩΣ ΣΤ. ΑΓ. ΜΑΡΙΝΑ)",
+    "lineDescrEng": "ASPROPYRGOS - ST. AG. MARINA (FROM ASPROPYRGOS TO AG.MARINA)",
+    "lineCode": 1498
+  },
+  "5441": {
+    "lineID": "878",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΕΛΕΥΣΙΝΑ",
+    "lineDescrEng": "ACHARNAI - ELEYSINA",
+    "lineCode": 911
+  },
+  "5442": {
+    "lineID": "878",
+    "lineDescr": "ΑΧΑΡΝΑΙ - ΕΛΕΥΣΙΝΑ (ΑΠΟ ΜΕΣΟΝΥΧΙ)",
+    "lineDescrEng": "ACHARNAI - ELEYSINA (FROM MESONYCHI)",
+    "lineCode": 1445
+  },
+  "5454": {
+    "lineID": "227",
+    "lineDescr": "ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ",
+    "lineDescrEng": "ANO PETRALONA - AG. ARTEMIOS",
+    "lineCode": 847
+  },
+  "5455": {
+    "lineID": "227",
+    "lineDescr": "ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ",
+    "lineDescrEng": "ANO PETRALONA - AG. ARTEMIOS",
+    "lineCode": 847
+  },
+  "5463": {
+    "lineID": "730",
+    "lineDescr": "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ",
+    "lineDescrEng": "LOFOS AKSIOMATIKON - ST. AGIOS ANTONIOS - ZOODOCHOS PIGI",
+    "lineCode": 989
+  },
+  "5464": {
+    "lineID": "730",
+    "lineDescr": "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ",
+    "lineDescrEng": "LOFOS AKSIOMATIKON - ST. AGIOS ANTONIOS - ZOODOCHOS PIGI",
+    "lineCode": 989
+  },
+  "5476": {
+    "lineID": "314",
+    "lineDescr": "Γ* ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΝΕΑ ΜΑΚΡΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)",
+    "lineDescrEng": "C* ST. DOUK. PLAKENTIAS - PALLINI - N. MAKRI (VIA PANORAMA)",
+    "lineCode": 1691
+  },
+  "5478": {
+    "lineID": "120",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΠΡΟΑΣΤΙΑΚΟΣ ΣΤ. ΚΟΡΩΠΙΟΥ",
+    "lineDescrEng": "GLYFADA - VARI - PROAST. KOROPIOU",
+    "lineCode": 940
+  },
+  "5479": {
+    "lineID": "124",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΑΓΙΑ ΤΡΙΑΔΑ - ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "GLYFADA - AGIA TRIADA - ST. ARGYROUPOLIS ",
+    "lineCode": 1486
+  },
+  "5481": {
+    "lineID": "128",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "GLYFADA - TERPSITHEA",
+    "lineCode": 927
+  },
+  "5482": {
+    "lineID": "205",
+    "lineDescr": "ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "GLYFADA - SOURMENA - TERPSITHEA",
+    "lineCode": 1729
+  },
+  "5483": {
+    "lineID": "140",
+    "lineDescr": "ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "POLIGONO - GLIFADA",
+    "lineCode": 937
+  },
+  "5491": {
+    "lineID": "535Α",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΕΥΞΕΙΝΟΣ ΠΟΝΤΟΣ - ΦΡΑΓΜΑ - ΚΑΛΕΤΖΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ZIRINEIO - EYXEINOS PONTOS - KALETZI",
+    "lineCode": 1260
+  },
+  "5496": {
+    "lineID": "836",
+    "lineDescr": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΠΑΛΑΣΚΑ",
+    "lineDescrEng": "PL. KOYMOYNDOYROY - PALASKA",
+    "lineCode": 1758
+  },
+  "5497": {
+    "lineID": "836",
+    "lineDescr": "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΠΑΛΑΣΚΑ",
+    "lineDescrEng": "PL. KOYMOYNDOYROY - PALASKA",
+    "lineCode": 1758
+  },
+  "5502": {
+    "lineID": "420",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ  (ΜΕΣΩ ΚΗΦΙΣΟΥ) ",
+    "lineDescrEng": "PEIRAIAS - AG. ANARGYROI (VIA KIFISOY) ",
+    "lineCode": 1164
+  },
+  "5503": {
+    "lineID": "829",
+    "lineDescr": "ΠΑΔΑ ΑΡΧΑΙΟΣ ΕΛΑΙΩΝΑΣ - ΣΤ.ΑΙΓΑΛΕΩ - ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PADA ARCHAIOS ELEONAS -ST. AIGALEO - PADA ALSOS AIGALEO",
+    "lineCode": 1643
+  },
+  "5504": {
+    "lineID": "829",
+    "lineDescr": "ΠΑΔΑ ΑΡΧΑΙΟΣ ΕΛΑΙΩΝΑΣ - ΣΤ.ΑΙΓΑΛΕΩ - ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PADA ARCHAIOS ELEONAS -ST. AIGALEO - PADA ALSOS AIGALEO",
+    "lineCode": 1643
+  },
+  "5510": {
+    "lineID": "10",
+    "lineDescr": "ΤΖΙΤΖΙΦΙΕΣ - ΧΑΛΑΝΔΡΙ",
+    "lineDescrEng": "TZITZIFIES - XALANDRI",
+    "lineCode": 1077
+  },
+  "5512": {
+    "lineID": "040",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΥΝΤΑΓΜΑ",
+    "lineDescrEng": "PEIRAIAS - SINTAGMA",
+    "lineCode": 938
+  },
+  "5513": {
+    "lineID": "040",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΥΝΤΑΓΜΑ",
+    "lineDescrEng": "PEIRAIAS - SINTAGMA",
+    "lineCode": 938
+  },
+  "5514": {
+    "lineID": "130",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - Ν. ΣΜΥΡΝΗ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PEIRAIAS - NEA SMIRNI",
+    "lineCode": 851
+  },
+  "5515": {
+    "lineID": "217",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ",
+    "lineDescrEng": "PEIRAIAS - AG. DIMITRIOS - ST. DAFNI",
+    "lineCode": 1033
+  },
+  "5516": {
+    "lineID": "217",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ",
+    "lineDescrEng": "PEIRAIAS - AG. DIMITRIOS - ST. DAFNI",
+    "lineCode": 1033
+  },
+  "5517": {
+    "lineID": "Α1",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ",
+    "lineDescrEng": "PEIRAIAS - VOYLA",
+    "lineCode": 962
+  },
+  "5518": {
+    "lineID": "Α1",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ",
+    "lineDescrEng": "PEIRAIAS - VOYLA",
+    "lineCode": 962
+  },
+  "5519": {
+    "lineID": "Β1",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "PEIRAIAS - ANO GLYFADA",
+    "lineCode": 871
+  },
+  "5520": {
+    "lineID": "Β1",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "PEIRAIAS - ANO GLYFADA",
+    "lineCode": 871
+  },
+  "5521": {
+    "lineID": "Β1",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "PEIRAIAS - ANO GLYFADA",
+    "lineCode": 871
+  },
+  "5522": {
+    "lineID": "Β1",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "PEIRAIAS - ANO GLYFADA",
+    "lineCode": 871
+  },
+  "5523": {
+    "lineID": "229",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ",
+    "lineDescrEng": "PEIRAIAS - AG. DIMITRIOS - ST. DAFNI",
+    "lineCode": 1034
+  },
+  "5529": {
+    "lineID": "1",
+    "lineDescr": "ΠΛ. ΑΤΤΙΚΗΣ - ΚΑΛΛΙΘΕΑ - ΜΟΣΧΑΤΟ (ΕΩΣ ΛΕΩΦ.ΕΛ.ΒΕΝΙΖΕΛΟΥ)",
+    "lineDescrEng": "PLATEIA ATTIKIS - TZITZIFIES - MOSCHATO (TO EL.BENIZELOY)",
+    "lineCode": 1760
+  },
+  "5530": {
+    "lineID": "1",
+    "lineDescr": "ΠΛ. ΑΤΤΙΚΗΣ - ΚΑΛΛΙΘΕΑ - ΜΟΣΧΑΤΟ (ΕΩΣ ΛΕΩΦ.ΕΛ.ΒΕΝΙΖΕΛΟΥ)",
+    "lineDescrEng": "PLATEIA ATTIKIS - TZITZIFIES - MOSCHATO (TO EL.BENIZELOY)",
+    "lineCode": 1760
+  },
+  "5532": {
+    "lineID": "Χ96",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)",
+    "lineDescrEng": "PEIRAIAS - AEROLIMENAS ATHINON (EXPRESS)",
+    "lineCode": 892
+  },
+  "5533": {
+    "lineID": "Χ96",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)",
+    "lineDescrEng": "PEIRAIAS - AEROLIMENAS ATHINON (EXPRESS)",
+    "lineCode": 892
+  },
+  "5534": {
+    "lineID": "Ε90",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ (ΣΧΟΛΙΚΗ EXPRESS)",
+    "lineDescrEng": "PEIRAIAS - PANEPISTIMIOYPOLI (SCHOLIKI EXPRESS)",
+    "lineCode": 1203
+  },
+  "5535": {
+    "lineID": "040",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΣΥΝΤΑΓΜΑ",
+    "lineDescrEng": "PEIRAIAS - SINTAGMA",
+    "lineCode": 938
+  },
+  "5536": {
+    "lineID": "229",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤ. ΔΑΦΝΗ",
+    "lineDescrEng": "PEIRAIAS - AG. DIMITRIOS - ST. DAFNI",
+    "lineCode": 1034
+  },
+  "5537": {
+    "lineID": "860",
+    "lineDescr": "Π. ΦΑΛΗΡΟ - ΓΕΝ. ΚΡΑΤΙΚΟ ΝΙΚΑΙΑΣ - ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ (ΑΠΟ ΧΡ.ΣΜΥΡΝΗΣ-ΣΧΟΛΕΙΑ)",
+    "lineDescrEng": "P. FALIRO - GEN. KRATIKO NIKAIAS - SCHISTO KERATSINIOY",
+    "lineCode": 1761
+  },
+  "5538": {
+    "lineID": "860",
+    "lineDescr": "Π. ΦΑΛΗΡΟ - ΓΕΝ. ΚΡΑΤΙΚΟ ΝΙΚΑΙΑΣ - ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ (ΑΠΟ ΧΡ.ΣΜΥΡΝΗΣ-ΣΧΟΛΕΙΑ)",
+    "lineDescrEng": "P. FALIRO - GEN. KRATIKO NIKAIAS - SCHISTO KERATSINIOY",
+    "lineCode": 1761
+  },
+  "5539": {
+    "lineID": "860",
+    "lineDescr": "Π. ΦΑΛΗΡΟ - ΓΕΝ. ΚΡΑΤΙΚΟ ΝΙΚΑΙΑΣ - ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ (ΑΠΟ ΧΡ.ΣΜΥΡΝΗΣ-ΣΧΟΛΕΙΑ)",
+    "lineDescrEng": "P. FALIRO - GEN. KRATIKO NIKAIAS - SCHISTO KERATSINIOY",
+    "lineCode": 1761
+  },
+  "5559": {
+    "lineID": "309Β",
+    "lineDescr": "ΣΤ. ΚΟΡΩΠΙ - ΜΑΡΚΟΠΟΥΛΟ - ΠΟΡΤΟ ΡΑΦΤΗ - ΑΥΛΑΚΙ (ΑΠΟ ΠΟΡΤΟ ΡΑΦΤΗ)",
+    "lineDescrEng": "ST. KOROPI - MARKOPOULO - PORTO RAFTI - AVLAKI (FROM PORTO RAFTI)",
+    "lineCode": 1763
+  },
+  "5560": {
+    "lineID": "309Β",
+    "lineDescr": "ΣΤ. ΚΟΡΩΠΙ - ΜΑΡΚΟΠΟΥΛΟ- ΠΟΡΤΟ ΡΑΦΤΗ - ΑΥΛΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. KOROPI - MARKOPOULO - PORTO RAFTI - AYLAKI",
+    "lineCode": 1762
+  },
+  "5561": {
+    "lineID": "Α1",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ (ΑΠΟ ΕΚΚΛΗΣΙΑ ΒΑΡΗΣ ΕΩΣ ΠΕΙΡΑΙΑ)",
+    "lineDescrEng": "PEIRAIAS - VOYLA (FROM EKKLISIA VARIS TO PEIRAIAS)",
+    "lineCode": 1566
+  },
+  "5562": {
+    "lineID": "025",
+    "lineDescr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΠΡΟΦΗΤΗ ΔΑΝΙΗΛ",
+    "lineDescrEng": "IPPOKRATOUS - PROFITI DANIIL",
+    "lineCode": 817
+  },
+  "5563": {
+    "lineID": "026",
+    "lineDescr": "ΙΠΠΟΚΡΑΤΟΥΣ - ΒΟΤΑΝΙΚΟΣ",
+    "lineDescrEng": "IPPOKRATOUS - VOTANIKOS",
+    "lineCode": 818
+  },
+  "5566": {
+    "lineID": "Α2",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (ΜΕΣΩ Λ. ΑΜΦΙΘΕΑΣ)",
+    "lineDescrEng": "AKADIMIA - VOULA (VIA L. AMFITHEAS)",
+    "lineCode": 1421
+  },
+  "5567": {
+    "lineID": "Α2",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (ΜΕΣΩ Λ. ΑΜΦΙΘΕΑΣ)",
+    "lineDescrEng": "AKADIMIA - VOULA (VIA L. AMFITHEAS)",
+    "lineCode": 1421
+  },
+  "5568": {
+    "lineID": "Α2",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (ΑΠΟ ΕΚΚΛΗΣΙΑ ΒΑΡΗΣ ΕΩΣ ΑΚΑΔΗΜΙΑ)",
+    "lineDescrEng": "AKADIMIA - VOULA (FROM EKKLISIA VARIS TO AKADIMIA)",
+    "lineCode": 1541
+  },
+  "5569": {
+    "lineID": "Α2",
+    "lineDescr": "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (ΑΠΟ ΑΚΑΔΗΜΙΑ ΕΩΣ ΕΚΚΛΗΣΙΑ ΒΑΡΗΣ)",
+    "lineDescrEng": "AKADIMIA - VOULA (FROM AKADIMIA TO EKKLISIA VARIS)",
+    "lineCode": 1542
+  },
+  "5570": {
+    "lineID": "829",
+    "lineDescr": "ΠΑΔΑ ΑΡΧΑΙΟΣ ΕΛΑΙΩΝΑΣ - ΣΤ.ΑΙΓΑΛΕΩ - ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ (ΑΠΟ ΠΑΔΑ ΑΛΣΟΣ ΑΙΓΑΛΕΩ)",
+    "lineDescrEng": "PADA AR. ELAIONAS - ST. AIGALEO - PADA ALSOS AIGALEO(FROM PADA ALSOS)",
+    "lineCode": 1636
+  },
+  "5572": {
+    "lineID": "330",
+    "lineDescr": "ΚΟΡΩΠΙ - ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KOROPI - AGIA MARINA ",
+    "lineCode": 1043
+  },
+  "5574": {
+    "lineID": "814",
+    "lineDescr": "ΣΧΙΣΤΟ ΚΑΡΑΒΑΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "SCHISTO KARAVAS - PEIRAIAS",
+    "lineCode": 1652
+  },
+  "5578": {
+    "lineID": "703",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (ΝΥΧΤΕΡΙΝΑ ΔΡΟΜΟΛΟΓΙΑ ΣΑΒΒΑΤΟΥ -  ΠΛ.ΚΑΡΑΪΣΚΑΚΗ)",
+    "lineDescrEng": "PEIRAIAS - AG. ANARGYROI - AG. ELEYTHERIOS (SATURDAY AFTER MIDNIGHT)",
+    "lineCode": 1765
+  },
+  "5579": {
+    "lineID": "703",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (ΝΥΧΤΕΡΙΝΑ ΔΡΟΜΟΛΟΓΙΑ ΣΑΒΒΑΤΟΥ -  ΠΛ.ΚΑΡΑΪΣΚΑΚΗ)",
+    "lineDescrEng": "PEIRAIAS - AG. ANARGYROI - AG. ELEYTHERIOS (SATURDAY AFTER MIDNIGHT)",
+    "lineCode": 1765
+  },
+  "5585": {
+    "lineID": "301",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ (ΕΩΣ ΤΕΡΜΑ ΚΑΛΛΙΣΙΩΝ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1766
+  },
+  "5586": {
+    "lineID": "301",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ (ΕΩΣ ΤΕΡΜΑ ΚΑΛΛΙΣΙΩΝ)",
+    "lineDescrEng": "ST. DOUK. PLAKENTIAS - ANTHOUSA - PENTELI",
+    "lineCode": 1766
+  },
+  "5612": {
+    "lineID": "319",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΠΑΛΛΗΝΗ - ΕΚΠΤ. ΧΩΡΙΟ ΣΠΑΤΑ (3ο ΓΥΜΝΑΣΙΟ ΠΑΛΛΗΝΗΣ ΠΡΟΣ ΣΠΑΤΑ)",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - PALLINI - EKPT. CHORIO SPATA (3RD GYMNASIO)",
+    "lineCode": 1768
+  },
+  "5613": {
+    "lineID": "509Β",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΦΙΔΝΕΣ - ΠΟΛΥΔΕΝΔΡΙ - ΚΑΠΑΝΔΡΙΤΙ - ΒΑΡΝΑΒΑ",
+    "lineDescrEng": "ZIRINEIO - AFIDNES - POLYDENDRI - KAPANDRITI - BARNABA",
+    "lineCode": 1685
+  },
+  "5614": {
+    "lineID": "509Β",
+    "lineDescr": "ΖΗΡΙΝΕΙΟ - ΑΦΙΔΝΕΣ - ΠΟΛΥΔΕΝΔΡΙ - ΚΑΠΑΝΔΡΙΤΙ - ΒΑΡΝΑΒΑ",
+    "lineDescrEng": "ZIRINEIO - AFIDNES - POLYDENDRI - KAPANDRITI - BARNABA",
+    "lineCode": 1685
+  },
+  "5633": {
+    "lineID": "302",
+    "lineDescr": "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΕΡΑΚΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. DOYK. PLAKENTIAS - GERAKAS ",
+    "lineCode": 1039
+  },
+  "5643": {
+    "lineID": "032",
+    "lineDescr": "ΓΟΥΔΗ - ΜΑΡΑΣΛΕΙΟΣ (ΣΧΟΛΙΚΗ)",
+    "lineDescrEng": "GOUDI - MARASLIOS",
+    "lineCode": 1113
+  },
+  "5645": {
+    "lineID": "622",
+    "lineDescr": "ΓΟΥΔΗ - ΑΝΩ ΓΑΛΑΤΣΙ",
+    "lineDescrEng": "GOYDI - ANO GALATSI",
+    "lineCode": 935
+  },
+  "5646": {
+    "lineID": "815",
+    "lineDescr": "ΓΟΥΔΗ - ΤΑΥΡΟΣ",
+    "lineDescrEng": "GOYDI - TAYROS",
+    "lineCode": 934
+  },
+  "5647": {
+    "lineID": "230",
+    "lineDescr": "ΑΚΡΟΠΟΛΗ - ΖΩΓΡΑΦΟΥ",
+    "lineDescrEng": "AKROPOLI - ZOGRAFOY",
+    "lineCode": 975
+  },
+  "5648": {
+    "lineID": "230",
+    "lineDescr": "ΑΚΡΟΠΟΛΗ - ΖΩΓΡΑΦΟΥ",
+    "lineDescrEng": "AKROPOLI - ZOGRAFOY",
+    "lineCode": 975
+  },
+  "5650": {
+    "lineID": "140",
+    "lineDescr": "ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "POLIGONO - GLIFADA",
+    "lineCode": 937
+  },
+  "5651": {
+    "lineID": "101",
+    "lineDescr": "ΑΛΙΜΟΣ - ΕΛΛΗΝΙΚΟ",
+    "lineDescrEng": "ALIMOS - ELLHNIKO",
+    "lineCode": 939
+  },
+  "5652": {
+    "lineID": "101",
+    "lineDescr": "ΑΛΙΜΟΣ - ΕΛΛΗΝΙΚΟ",
+    "lineDescrEng": "ALIMOS - ELLHNIKO",
+    "lineCode": 939
+  },
+  "5653": {
+    "lineID": "109",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. AG. DIMITRIOS - ANO KALAMAKI",
+    "lineCode": 1449
+  },
+  "5654": {
+    "lineID": "109",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ (ΑΠΟ ΠΛ. ΓΕΡΟΥΛΑΝΟΥ ΕΩΣ ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟ)",
+    "lineDescrEng": "ST. AG. DIMITRIOS - ANO KALAMAKI (PL. GEROULANOU TO ST. AG. DIMITRIOS)",
+    "lineCode": 1777
+  },
+  "5656": {
+    "lineID": "109",
+    "lineDescr": "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ (ΕΩΣ ΣΤΑΣΗ ΚΟΤΖΙΑ)",
+    "lineDescrEng": "ST. AG. DIMITRIOS - ANO KALAMAKI (TO KOTZIA)",
+    "lineCode": 1779
+  },
+  "5661": {
+    "lineID": "912",
+    "lineDescr": "ΝΕΟ ΦΑΛΗΡΟ - ΚΕΠΑ",
+    "lineDescrEng": "NEO FALIRO - KEPA",
+    "lineCode": 1782
+  },
+  "5662": {
+    "lineID": "Β2",
+    "lineDescr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΑΓ.ΚΟΣΜΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΚΗΣ) (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. SYGGROY FIX - AGIOS KOSMAS (VIA PARALIAKI)",
+    "lineCode": 1450
+  },
+  "5663": {
+    "lineID": "142",
+    "lineDescr": "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "ST. ARGYROYPOLI - KALAMAKI",
+    "lineCode": 942
+  },
+  "5666": {
+    "lineID": "Β2",
+    "lineDescr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΑΓ. ΚΟΣΜΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΚΗΣ) (5η ΑΛΙΜΟΥ ΕΩΣ ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ)",
+    "lineDescrEng": "ST. SYGGROY FIX - AGIOS KOSMAS (FROM 5h ALIMOU TO ST. SYGGROY FIX)",
+    "lineCode": 1783
+  },
+  "5667": {
+    "lineID": "Β2",
+    "lineDescr": "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΑΓ. ΚΟΣΜΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΚΗΣ) (ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ ΕΩΣ 5η ΑΛΙΜΟΥ)",
+    "lineDescrEng": "SYGGROY FIX - AGIOS KOSMAS (FROM ST. SYGGROY FIX TO 5h ALIMOY)",
+    "lineCode": 1784
+  },
+  "5668": {
+    "lineID": "054",
+    "lineDescr": "ΠΕΡΙΣΣΟΣ - ΛΑΜΠΡΙΝΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "PERISSOS - LAMPRINI - OMONOIA ",
+    "lineCode": 1556
+  },
+  "5670": {
+    "lineID": "032",
+    "lineDescr": "ΓΟΥΔΗ - ΜΑΡΑΣΛΕΙΟΣ (ΣΧΟΛΙΚΗ)",
+    "lineDescrEng": "GOUDI - MARASLIOS",
+    "lineCode": 1113
+  },
+  "5672": {
+    "lineID": "420",
+    "lineDescr": "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ  (ΜΕΣΩ ΚΗΦΙΣΟΥ) ",
+    "lineDescrEng": "PEIRAIAS - AG. ANARGYROI (VIA KIFISOY) ",
+    "lineCode": 1164
+  },
+  "5673": {
+    "lineID": "719",
+    "lineDescr": "ΚΗΠΟΥΠΟΛΗ - ΠΑΛΑΤΙΑΝΗ - ΣΤ. ΛΑΡΙΣΗΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "KIPOYPOLI - PALATIANI - ST. LARISIS",
+    "lineCode": 837
+  },
+  "5674": {
+    "lineID": "Β12",
+    "lineDescr": "ΣΤ. ΑΤΤΙΚΗ - ΑΝΩ ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ)",
+    "lineDescrEng": "ST. ATTIKI -  ANO LIOSIA (PANORAMA)",
+    "lineCode": 1386
+  },
+  "5675": {
+    "lineID": "Χ93",
+    "lineDescr": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ (EXPRESS)",
+    "lineDescrEng": "ST. YPER. LEOF. KIFISOU - AEROLIMENAS ATHINON (EXPRESS)",
+    "lineCode": 1521
+  },
+  "5676": {
+    "lineID": "Χ93",
+    "lineDescr": "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ (EXPRESS)",
+    "lineDescrEng": "ST. YPER. LEOF. KIFISOU - AEROLIMENAS ATHINON (EXPRESS)",
+    "lineCode": 1521
+  },
+  "5686": {
+    "lineID": "310",
+    "lineDescr": "ΜΑΡΑΘΩΝΑΣ - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ - ΜΑΤΙ - ΜΑΡΑΘΩΝΑΣ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "MARATHONAS - NEA MAKRI - RAFINA - MATI - MARATHONAS",
+    "lineCode": 1681
+  },
+  "5687": {
+    "lineID": "310",
+    "lineDescr": "Β* ΜΑΡΑΘΩΝΑΣ - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ - ΓΡΑΜΜΑΤΙΚΟ ",
+    "lineDescrEng": "B MARATHONAS - NEA MAKRI - RAFINA - GRAMMATIKO",
+    "lineCode": 1682
+  },
+  "5688": {
+    "lineID": "310",
+    "lineDescr": "Γ* ΜΑΡΑΘΩΝΑΣ (ΜΕΣΩ ΠΑΡΑΛΙΑΣ) - ΝΕΑ ΜΑΚΡΗ - ΡΑΦΗΝΑ - ΜΑΤΙ - ΜΑΡΑΘΩΝΑΣ",
+    "lineDescrEng": "C* MARATHONAS (VIA PARALIA) - NEA MAKRI - RAFINA - MATI - MARATHONAS",
+    "lineCode": 1724
+  },
+  "5689": {
+    "lineID": "723",
+    "lineDescr": "ΦΥΛΗ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)",
+    "lineDescrEng": "FYLI - ANO LIOSIA",
+    "lineCode": 1789
+  },
+  "5690": {
+    "lineID": "140",
+    "lineDescr": "ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ",
+    "lineDescrEng": "POLIGONO - GLIFADA",
+    "lineCode": 937
+  }
+}
